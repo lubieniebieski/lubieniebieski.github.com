@@ -1,0 +1,28 @@
+body {
+  background-color: #0092ca;
+  color: #fff;
+  font-size: 18px;
+  font-family: Source Sans Pro; }
+
+h1, h2, h3 {
+  font-family: Yanone Kaffeesatz; }
+
+.container {
+  padding: 100px 0 0 0;
+  width: 940px;
+  margin: 0 auto; }
+  .container .title {
+    font-family: Yanone Kaffeesatz;
+    font-size: 8em;
+    text-align: center; }
+    .container .title span {
+      padding: 5px;
+      font-size: 0.8em;
+      font-family: courier;
+      background-color: black; }
+    .container .title .caption {
+      font-family: Yanone Kaffeesatz;
+      font-size: 0.4em; }
+
+.article .body {
+  padding-left: 10px; }
