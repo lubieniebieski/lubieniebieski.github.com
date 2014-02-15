@@ -1,0 +1,20 @@
+---
+layout: post
+title: hello
+date: 2013-03-04 22:36 +01:00
+categories: personal blog
+---
+
+### few words
+
+huh, start is always the hardest. so let's move on...
+
+### about
+
+I'm adam, as you can see, I like blue and I've tried to combine `#fff`, `#242424` and `#0092ca` in some cool form. here it is. this blog won't be about life, I'll rather focus on some `code` aspects of my programmers life. I hope the next posts won't be as modest as this one, the quality will come with time I think. keep your fingers crossed!
+
+### inspiration
+
+Tomek has a [blog](http://pewniak747.info/), I'd like to have one like him. his blog is green and has some content already, I'll try to catch him up in the following months. thanks for the motivation Pewniak:)
+
+
