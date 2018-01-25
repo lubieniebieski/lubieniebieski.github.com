@@ -1,0 +1,40 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+$base-font-family: "Source Sans Pro";
+$blue-color: #0092ca;
+@import "minima";
+
+// Custom code
+
+// Hide RSS feed
+.rss-subscribe {
+  display: none;
+}
+
+a, a:visited {
+  color: $blue-color;
+}
+
+.icon > svg path {
+  fill: white;
+}
+
+.site-header, .site-footer {
+  background: $blue-color;
+  .footer-col-wrapper, .wrapper {
+    color: white;
+  }
+  a, a:visited {
+    color: white;
+  }
+}
+
+.post {
+  h1, h2, h3 {
+    text-transform: uppercase;
+  }
+}
