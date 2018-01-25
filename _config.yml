@@ -12,3 +12,4 @@ plugins:
   - jekyll-feed
   - jemoji
 google_analytics: UA-113111193-1
+permalink: /:year/:month/:title
