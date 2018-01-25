@@ -5,8 +5,10 @@ permalink: /about/
 ---
 # My name is Adam, nice to meet you!
 
+![Adam Nowak]({{ "/assets/images/avatar-bio.jpg" | absolute_url }})
+
 All I want to do on this page, is to share my thoughts with the world and help
 others understand things which I struggle(d) with, so they don't have to come
 through the pain by themselves!
 
-I enjoy helping people.
+I enjoy helping people. :raised_hands:
