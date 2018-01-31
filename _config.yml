@@ -12,4 +12,12 @@ plugins:
   - jekyll-feed
   - jemoji
 google_analytics: UA-113111193-1
-permalink: /:year/:month/:title
+permalink: /blog/:year-:month/:title
+author: Adam Nowak
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
+      author: "Adam Nowak"

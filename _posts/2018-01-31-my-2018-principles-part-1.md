@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My principles for 2018: Slow down. Enjoy, don’t rush."
 ---
 
