@@ -11,8 +11,9 @@ markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
-  - jemoji
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jemoji
 
 google_analytics: UA-113111193-1
 permalink: /blog/:year-:month/:title
