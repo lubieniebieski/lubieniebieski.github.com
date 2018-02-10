@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
 
 $base-font-family: "Source Sans Pro";
 $blue-color: #0092ca;
@@ -19,7 +19,7 @@ a, a:visited {
   color: $blue-color;
 }
 
-.icon > svg path {
+.svg-icon {
   fill: white;
 }
 

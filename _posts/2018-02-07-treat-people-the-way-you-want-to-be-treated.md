@@ -1,5 +1,6 @@
 ---
 title: "Treat people the way you want to be treated. Actually, treat them better."
+excerpt: "If I don’t know how should I react in a given situation - I usually use this simple rule: Treat people the way you want to be treated. It works!"
 ---
 
 Read the first part of the "Principles" series
