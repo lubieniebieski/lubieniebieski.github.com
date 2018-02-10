@@ -2,9 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
 
-$base-font-family: "Source Sans Pro";
+$base-font-family: "Open Sans";
 $blue-color: #0092ca;
 @import "minima";
 
@@ -37,8 +37,15 @@ a, a:visited {
   color: white;
 }
 
-.post {
-  h1, h2, h3 {
-    text-transform: uppercase;
+.post-content, .post-list {
+  h1, h2, h3, .post-meta {
+    font-family: "Open Sans";
+    font-weight: 700;
   }
+  font-family: "Georgia";
+  font-size: 21px;
+  line-height: 1.6;
+}
+.post-title {
+  font-weight: 700;
 }
