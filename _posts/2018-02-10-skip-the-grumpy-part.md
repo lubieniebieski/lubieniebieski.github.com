@@ -2,9 +2,12 @@
 title: "Skip the \"grumpy\" part."
 excerpt: "We all like to complain from time to time, that’s in our nature, especially in my Polish nation. This post is not about judging who we are, but it’s about the way we should reduce this step from our conversation with others."
 ---
-Read the previous part of the "Principles" series
+
+:rewind: *Read the previous part of the "Principles" series*
 [here]({{ site.baseurl }}{% post_url
 2018-02-07-treat-people-the-way-you-want-to-be-treated %}).
+
+---
 
 We all like to complain from time to time, that’s in our nature, especially in my Polish nation. This post is not about judging who we are, but it’s about the way we should reduce this step from our conversation with others.
 

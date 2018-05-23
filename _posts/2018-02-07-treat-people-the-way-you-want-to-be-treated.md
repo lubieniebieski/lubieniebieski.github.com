@@ -4,7 +4,10 @@ excerpt: "If I don’t know how should I react in a given situation - I usually 
 ---
 
 Read the first part of the "Principles" series
+:rewind: *Read the previous part of the "Principles" series*
 [here]({{ site.baseurl }}{% post_url 2018-01-31-my-2018-principles-part-1 %}).
+
+---
 
 If I don’t know how should I react in a given situation - I usually use this simple rule: _Treat people the way you want to be treated_. It works!
 And this year I want to make it more special, so I add _treat them better_ on top of that.
