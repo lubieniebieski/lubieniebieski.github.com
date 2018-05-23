@@ -8,10 +8,9 @@ instagram_username:  lubieniebieski
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-sitemap
   - jemoji
 
