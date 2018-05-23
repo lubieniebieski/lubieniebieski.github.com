@@ -18,7 +18,10 @@ I want to encourage you (& me!) to do three things:
 * If you have doubts - simply ask the person behind it about their point of view.
 * **Assume positive intent!**
 
-If you want to talk to the person who you think might have done something bad/stupid and you disagree with this, don’t hesitate to express your concerns. The key thing here is to use some form of [Nonviolent Communication], by using your sincere feelings and explaining your point of view.
+If you want to talk to the person who you think might have done something
+bad/stupid and you disagree with this, don’t hesitate to express your concerns.
+The key thing here is to use some form of
+[Nonviolent Communication](https://www.nonviolentcommunication.com/), by using your sincere feelings and explaining your point of view.
 
 I try to follow this guidance and I never assume that someone (especially one of my co-workers) would like to do something bad. My algorithm is simple:
 1. Accept the fact that someone has a different point of view
