@@ -1,3 +1,5 @@
+url: https://lubieniebieski.pl
+baseurl: ""
 title: Blue Corner by Adam Nowak
 description: >
   #proudfather #team #leader #0092ca #focused #fullofempathy
@@ -15,6 +17,8 @@ plugins:
   - jemoji
 
 google_analytics: UA-113111193-1
+disqus:
+  shortname: lubieniebieski
 permalink: /blog/:year-:month/:title
 author: Adam Nowak
 show_excerpts: true
