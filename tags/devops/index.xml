@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>devops on lubieniebieski.pl</title><link>https://lubieniebieski.pl/tags/devops/</link><description>Recent content in devops on lubieniebieski.pl</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>(c) adam nowak</copyright><lastBuildDate>Mon, 30 Jul 2018 10:00:00 +0000</lastBuildDate><atom:link href="https://lubieniebieski.pl/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Improving daily work</title><link>https://lubieniebieski.pl/improving-daily-work/</link><pubDate>Mon, 30 Jul 2018 10:00:00 +0000</pubDate><guid>https://lubieniebieski.pl/improving-daily-work/</guid><description>🔗 Originally posted on Linkedin as a haiku-like entry
+Improving daily work is even more important than doing daily work.
+The above is another quote from The Phoenix Project book I&amp;rsquo;ve mentioned in my last post.
+When I heard about &amp;ldquo;kaizen&amp;rdquo; for the first time, I didn&amp;rsquo;t expect that I would experience its power so much in my professional career.
+When Netguru was a small company, we made dozens of small improvements every day.</description><content>&lt;p>🔗 &lt;em>Originally posted on &lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:6427820761850867712">Linkedin&lt;/a> as a haiku-like entry&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Improving daily work is even more important than doing daily work.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>The above is another quote from &lt;a href="https://www.goodreads.com/book/show/17255186-the-phoenix-project" title="The Phoenix Project">The Phoenix Project&lt;/a> book I&amp;rsquo;ve mentioned in my &lt;a href="https://lubieniebieski.pl/devops-is-not-servers/">last post&lt;/a>.&lt;/p>
+&lt;p>When I heard about &amp;ldquo;kaizen&amp;rdquo; for the first time, I didn&amp;rsquo;t expect that I would experience its power so much in my professional career.&lt;/p>
+&lt;p>When Netguru was a small company, we made dozens of small improvements every day. It helped us to improve quality, embrace the growth, and be ready for all the challenges in front of us in the constantly changing environment.&lt;/p>
+&lt;p>I see no other option for hyper-growing companies than embracing Continuous Improvement principles as a part of their core values.&lt;/p>
+&lt;p>I feel that the one area which we haven&amp;rsquo;t improved in a kaizen way is&amp;hellip; the kaizen way of doing things in the company.&lt;/p>
+&lt;p>We&amp;rsquo;re not small anymore, and finding the time for improvement is not granted. We have to make room for that.&lt;/p>
+&lt;p>We&amp;rsquo;re on our way to address this: we&amp;rsquo;ve introduced investment time for our team. We&amp;rsquo;re thinking about adding &amp;ldquo;kaizen blitz&amp;rdquo; to our flow, so people can more often focus on a given area, gather like-minded people, and introduce various improvements.&lt;/p></content></item><item><title>DevOps != servers</title><link>https://lubieniebieski.pl/devops-is-not-servers/</link><pubDate>Mon, 23 Jul 2018 10:00:00 +0000</pubDate><guid>https://lubieniebieski.pl/devops-is-not-servers/</guid><description>⚓️ Originally posted on Linkedin as a haiku-like entry
+I&amp;rsquo;ve always assumed that DevOps are the people who work between servers and developers.
+That was until I read a novel titled The Phoenix Project, recommended to me by Bartosz Pranczke.
+Suddenly, all the pieces started to fit, and the software development environment looks different to me. I realised that DevOps is not a function, but a culture.
+&amp;hellip; and that everyone on the team is responsible for a project&amp;rsquo;s success.</description><content>&lt;p>⚓️ &lt;em>Originally posted on &lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:6426042608820199424">Linkedin&lt;/a> as a haiku-like entry&lt;/em>&lt;/p>
+&lt;p>I&amp;rsquo;ve always assumed that DevOps are the people who work between servers and developers.&lt;/p>
+&lt;p>That was until I read a novel titled &lt;a href="https://www.goodreads.com/book/show/17255186-the-phoenix-project" title="The Phoenix Project">The Phoenix Project&lt;/a>, recommended to me by &lt;a href="https://twitter.com/bpranczke">Bartosz Pranczke&lt;/a>.&lt;/p>
+&lt;p>Suddenly, all the pieces started to fit, and the software development environment looks different to me. I realised that DevOps is not a function, but a culture.&lt;/p>
+&lt;p>&amp;hellip; and that everyone on the team is responsible for a project&amp;rsquo;s success.&lt;/p>
+&lt;p>Implementing DevOps around a project is HARD.&lt;/p>
+&lt;p>So imagine that my current goal is to help the entire organization do that.&lt;/p>
+&lt;p>I&amp;rsquo;ve spent a lot of time recently working closer to the projects, analyzing our development processes and talking with people.&lt;/p>
+&lt;p>For starters, I would like to define and track KPIs that will help us decide whether we&amp;rsquo;re headed in the right direction.&lt;/p>
+&lt;p>Once we know the baseline, we can start improving.&lt;/p>
+&lt;p>The metrics pick will likely not be ideal, but we need them to build self-assurance, improve, and celebrate progress.&lt;/p></content></item></channel></rss>
