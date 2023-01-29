@@ -9,6 +9,8 @@ copyright = "(c) adam nowak"
   centerTheme = true
   themeColor = "blue"
   showLastUpdated = true
+  favicon = "favicon.ico"
+  appleTouchIcon = "apple-touch-icon.png"
   subtitle = "made with 💙"
   [params.logo]
     logoText = "lubieniebieski // adam nowak"

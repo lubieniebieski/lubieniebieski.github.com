@@ -1,0 +1,6 @@
+{{ if isset $.Site.Params "appletouchicon" }}
+<link
+  rel="apple-touch-icon"
+  href="{{ $.Site.Params.appleTouchIcon | absURL }}"
+/>
+{{ end }}
