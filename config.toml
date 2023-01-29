@@ -3,7 +3,6 @@ languageCode = "en-us"
 theme = "terminal"
 
 title = "lubieniebieski by adam nowak"
-copyright = "(c) adam nowak"
 
 [params]
   centerTheme = true
@@ -25,6 +24,19 @@ copyright = "(c) adam nowak"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/"
+        weight = 1
+
+      [[languages.en.menu.main]]
+        identifier = "cyks"
+        name = "Cyk"
+        url = "/categories/cyk"
+        weight = 2
+
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
+        weight = 3
