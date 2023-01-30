@@ -7,8 +7,8 @@ title = "lubieniebieski by adam nowak"
 [params]
   centerTheme = true
   themeColor = "blue"
-  showLastUpdated = true
   favicon = "favicon.ico"
+  ogimage = "favicon-512.png"
   appleTouchIcon = "apple-touch-icon.png"
   subtitle = "made with 💙"
   [params.logo]
