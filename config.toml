@@ -25,18 +25,18 @@ title = "lubieniebieski by adam nowak"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "blog"
-        name = "Blog"
+        name = "✍️"
         url = "/"
         weight = 1
 
       [[languages.en.menu.main]]
         identifier = "cyks"
-        name = "Cyk"
+        name = "📸"
         url = "/categories/cyk"
         weight = 2
 
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
+        name = "💁🏻‍♂️"
         url = "/about"
         weight = 3

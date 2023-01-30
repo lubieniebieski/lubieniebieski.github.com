@@ -1,0 +1,12 @@
+.navigation-menu a {
+  text-decoration: none;
+}
+
+.navigation-menu a:hover {
+  font-weight: bold;
+}
+
+.navigation-menu__inner {
+  margin-left: auto;
+  flex: none;
+}
