@@ -2,7 +2,7 @@
 title: My workspace 2021
 author: adam nowak
 date: 2021-03-10T21:49:14+00:00
-excerpt: Another year, another post about the place where I spend the most of time! A few different shots, new items, including the standing option and new audio.
+description: Another year, another post about the place where I spend the most of time! A few different shots, new items, including the standing option and new audio.
 url: workspace-2021
 aliases:
   - workspace
@@ -25,21 +25,21 @@ If you're interested in the previous setup, please take a look at [My workspace 
 
 ### Laptop 🆕
 
-I use a **[2019 Macbook Pro 16&#8243;][2]** in Space Gray.
+I use a **[2019 MacBook Pro 16";][2]** in Space Gray.
 
-2,6 GHz 6-Core Intel Core i7 + 16GB RAM. Sufficient for day-to-day work. But it blows air like a jet engine. Definitely too loud! And it's definitely bigger than my previous 13&#8243;. I wanted more power (which it delivers), but I really don't like the noise it makes.
+2,6 GHz 6-Core Intel Core i7 + 16GB RAM. Sufficient for day-to-day work. But it blows air like a jet engine. Definitely too loud! And it's definitely bigger than my previous 13";. I wanted more power (which it delivers), but I really don't like the noise it makes.
 
 {{< image src="202102_X1004580-lubieniebieskipl.jpg">}}
 
-Macbook is wrapped in a dbrand skin, a special <a href="https://dbrand.com/shop/special-edition/robot-camo" target="_blank" rel="noreferrer noopener">Robot Camo</a> edition which was shipped to me a few days before we went into COVID lockdown last year. I like the structure and the fact that it differentiates my laptop from other devices in the office --- not particularly beneficial when you stopped getting to the office, but still.. 🙂
+MacBook is wrapped in a dbrand skin, a special <a href="https://dbrand.com/shop/special-edition/robot-camo" target="_blank" rel="noreferrer noopener">Robot Camo</a> edition which was shipped to me a few days before we went into COVID lockdown last year. I like the structure and the fact that it differentiates my laptop from other devices in the office --- not particularly beneficial when you stopped getting to the office, but still.. 🙂
 
-Macbook sits on a silver [Rain Design mStand][3]. It's not matched to the colour of the hardware but I don't mind it (there was some kind of promotion on this particular colour after all).
+MacBook sits on a silver [Rain Design mStand][3]. It's not matched to the colour of the hardware but I don't mind it (there was some kind of promotion on this particular colour after all).
 
 ### Display
 
-In 2017 I bought [LG 27UD88-W][4] display. It's 27&#8243;, 4K and it has a USB-C connection which works great with my Macbook (one cable for power&display).
+In 2017 I bought [LG 27UD88-W][4] display. It's 27";, 4K and it has a USB-C connection which works great with my MacBook (one cable for power&display).
 
-The only issue I had initially, was the USB-C cable itself. The one delivered with the display was to short for my cable management needs and I had to look for a replacement. The one provided with the Macbook doesn't transfer data (it transmits power only), the other ones are short or have some other issues. After some time, I found the right cable on Amazon, unfortunately, it's not available anymore.
+The only issue I had initially, was the USB-C cable itself. The one delivered with the display was to short for my cable management needs and I had to look for a replacement. The one provided with the MacBook doesn't transfer data (it transmits power only), the other ones are short or have some other issues. After some time, I found the right cable on Amazon, unfortunately, it's not available anymore.
 
 {{< image src="202102_X1004561-lubieniebieskipl-1.jpg">}}
 
@@ -85,7 +85,7 @@ Microphone is capable of running via USB-C, but I picked up [Audient EVO 4][15] 
 
 ### External camera
 
-As I mentioned, I do a lot of Meet/Zoom/Slack calls every day, so it's important for me to have a decent Audio/Video setup. In addition to the Blue microphone described earlier, I use a [Logitech C922][16] webcam which offers nice quality and allows me to get a better angle than using a camera available on my Macbook.
+As I mentioned, I do a lot of Meet/Zoom/Slack calls every day, so it's important for me to have a decent Audio/Video setup. In addition to the Blue microphone described earlier, I use a [Logitech C922][16] webcam which offers nice quality and allows me to get a better angle than using a camera available on my MacBook.
 
 {{< image src="202102_X1004553-lubieniebieskipl.jpg">}}
 
@@ -156,7 +156,7 @@ I've added a few lighting sources around the room. The most important one is the
 That's it! If you have any questions --- reach out to me on Twitter [@lubieniebieski][20]!
 
 [1]: https://lubieniebieski.pl/workspace-2020/
-[2]: https://www.cnet.com/reviews/apple-macbook-pro-16-inch-2019-review/
+[2]: https://www.cnet.com/reviews/apple-MacBook-pro-16-inch-2019-review/
 [3]: https://www.raindesigninc.com/mstand.html
 [4]: https://www.amazon.com/dp/B01CDYB0QS
 [5]: https://lubieniebieski.pl/cyk006-new-wallpaper-992-911-gt3-turew-2021/
