@@ -16,7 +16,7 @@ tags:
 
 We all like to complain from time to time, that's in our nature, especially in my Polish nation. This post is not about judging who we are, but it's about the way we should reduce this step from our conversation with others.
 
-# Take a deep breath
+## Take a deep breath
 
 Imagine this situation: you talk to your boss (or even your colleague), there's something you don't particularly like about it, maybe the task isn't perfect or there's no enough information.
 Your peer states their point of view and as the response -- you roll your eyes

@@ -18,7 +18,7 @@ If I don't know how should I react in a given situation -- I usually use this si
 And this year I want to make it more special, so I add _treat them better_ on top of that.
 How do I want to achieve that?
 
-## Be nice, break the ice!
+## Be nice, break the ice
 
 If someone new joins my group, I need to make sure that the person doesn't get ignored and gets recognition from other members of the group.
 I'm going to _make the first step._

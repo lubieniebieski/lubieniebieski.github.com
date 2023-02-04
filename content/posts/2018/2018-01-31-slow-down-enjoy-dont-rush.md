@@ -17,7 +17,7 @@ _Sharing, as a bonus, comes with an external motivation 🙂_
 
 Here we go, 10 rules/guidelines for Adam Nowak, let's start with the first one:
 
-## Slow down. Enjoy, don't rush.
+## Slow down. Enjoy, don't rush
 
 Not much to add here.
 I've realised that in 2017, I've read more books than blogposts.

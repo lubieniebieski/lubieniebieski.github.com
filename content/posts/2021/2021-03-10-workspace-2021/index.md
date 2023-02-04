@@ -31,7 +31,7 @@ I use a **[2019 MacBook Pro 16";][2]** in Space Gray.
 
 {{< image src="202102_X1004580-lubieniebieskipl.jpg">}}
 
-MacBook is wrapped in a dbrand skin, a special <a href="https://dbrand.com/shop/special-edition/robot-camo" target="_blank" rel="noreferrer noopener">Robot Camo</a> edition which was shipped to me a few days before we went into COVID lockdown last year. I like the structure and the fact that it differentiates my laptop from other devices in the office --- not particularly beneficial when you stopped getting to the office, but still.. 🙂
+MacBook is wrapped in a dbrand skin, a special [Robot Camo][22] edition which was shipped to me a few days before we went into COVID lockdown last year. I like the structure and the fact that it differentiates my laptop from other devices in the office --- not particularly beneficial when you stopped getting to the office, but still.. 🙂
 
 MacBook sits on a silver [Rain Design mStand][3]. It's not matched to the colour of the hardware but I don't mind it (there was some kind of promotion on this particular colour after all).
 
@@ -59,7 +59,7 @@ I have a couple of additional devices on my desk as well.
 
 Long time ago, it was 2002 or 2003 --- I dreamed of having a 5.1 speaker system. I bought Creative Inspire 6.1 6700 back then. They are with me for almost 20 years already, even though I use them as 2.1 system right now.
 
-Ten years later I bought a pair of 2.0 **[Creative GigaWorks T20 Series II&nbsp;][9]**, but after few years and changing the desk I decided to put them back to the box and have some fun with the sub and two satellites from the 6700 set. Why? Mostly because of the size (satellites are very small) and they have a wired remote which is glued to the bottom of my desk and I use it to control the volume of the speakers.
+Ten years later I bought a pair of 2.0 **[Creative GigaWorks T20 Series II][9]**, but after few years and changing the desk I decided to put them back to the box and have some fun with the sub and two satellites from the 6700 set. Why? Mostly because of the size (satellites are very small) and they have a wired remote which is glued to the bottom of my desk and I use it to control the volume of the speakers.
 
 It's not ideal but for work --- this setup is pretty much OK.
 
@@ -176,3 +176,4 @@ That's it! If you have any questions --- reach out to me on Twitter [@lubieniebi
 [19]: https://www.cyfrowe.pl/kamery/lampa-led-yongnuo-yn-300-air-3200-5500k.html
 [20]: https://twitter.com/lubieniebieski
 [21]: https://www.flexispot.com/height-adjustable-standing-desk-converters-m8mb
+[22]: https://dbrand.com/shop/special-edition/robot-camo
