@@ -18,17 +18,17 @@ I've just closed the activity rings for 100th consecutive day!
 
 There are two main thoughts in my head which I'd like to share.
 
-# I wouldn't believe myself that this is even possible!
+## I wouldn't believe myself that this is even possible
 
 Yes, me! I did it and I'm celebrating it here!
 
-Usually when I tried keeping track of my activities, I'd eventually failed due to some random coincidences like a bunch of clouds, pain in the a… ahm, important body part, or just sheer lack of motivation. Every time I failed, I felt awful and frustrated 'cause I'd put in effort for like, a single day and then have to start all over again. Plus, with all the things I have to get done or simply would like to do like work, playing with the kids, talking to family, and getting the proper amount of exercise- it often seemed impossible.
+Usually when I tried keeping track of my activities, I'd eventually failed due to some random coincidences like a bunch of clouds, pain in the a... ahm, important body part, or just sheer lack of motivation. Every time I failed, I felt awful and frustrated 'cause I'd put in effort for like, a single day and then have to start all over again. Plus, with all the things I have to get done or simply would like to do like work, playing with the kids, talking to family, and getting the proper amount of exercise- it often seemed impossible.
 
 But here I am, having achieved my goal of consecutive 100 days!
 
 I heard other people did it, yet me? Yes, me indeed! I'm here celebrating it!
 
-# It was surprisingly easy!
+## It was surprisingly easy
 
 I went for a walk one day, closed the ring, felt good. I did the same the next day. No one complained, no one was angry, no one was disappointed. Job was done.
 
@@ -42,7 +42,7 @@ It was busy at work, but I found a walking pad laying under my desk. It turned t
 
 **It was not difficult at all.** All I had to do was to apply the right tools and techniques and I was able to conquer the obstacles that I faced.
 
-# Results
+## Results
 
 - 100 days of activity rings closed
 - one weird exercise during company's Christmas party (I realized at 23:40 that I still need to close the rings for the day and ended up running up and down the stairs in the building for 15 minutes)
@@ -53,7 +53,7 @@ It was busy at work, but I found a walking pad laying under my desk. It turned t
 - it was the first time since a few years that I didn't feel depressed during the end of the year season
 - I feel good!
 
-# What's next?
+## What's next?
 
 Next steps? Who knows? Keeping up a routine is something I plan to continue, and I can't wait to get back out on my bike and enjoy the sunshine!
 
