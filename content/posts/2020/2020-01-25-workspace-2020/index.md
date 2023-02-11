@@ -20,21 +20,21 @@ Since I moved to my new office space some time ago, I wanted to build a workspac
 
 ### Laptop
 
-{{< figure src="20200121_P1211673-lubieniebieskipl.jpg" caption="I like the blue colour and I like Porsches as well. Couldn't resist having this beautiful 991.2 911 GT3 in Sapphire Blue. One day..." >}}
+{{< figure src="20200121_P1211673-lubieniebieskipl.jpg" caption="I like the blue color and I like Porsches as well. Couldn't resist having this beautiful 991.2 911 GT3 in Sapphire Blue. One day..." >}}
 
-I use a **[2016 Macbook Pro 13&#8243;][1]** in Space Gray.
+I use a **[2016 MacBook Pro 13&#8243;][1]** in Space Gray.
 
-I've liked it in the beginning, but recently I run into issues with the keyboard (_this is real and I actually know more people who have some issues with their Macbook keyboards than the people who don't have any issues_) and the overall performance of the OS and I'm looking forward to a replacement in upcoming months (probably a 16" Macbook Pro).
+I've liked it in the beginning, but recently I run into issues with the keyboard (_this is real and I actually know more people who have some issues with their MacBook keyboards than the people who don't have any issues_) and the overall performance of the OS and I'm looking forward to a replacement in upcoming months (probably a 16" MacBook Pro).
 
 It's the basic configuration with TouchBar and 16GB of RAM. I usually work with Chrome, some docs, terminal and other small apps but the amount of RAM is never enough!
 
-Macbook sits on a silver **[Rain Design mStand][2]**. It's not matched to the colour of the hardware but I don't mind it (there was some kind of promotion on this particular colour after all).
+MacBook sits on a silver **[Rain Design mStand][2]**. It's not matched to the color of the hardware but I don't mind it (there was some kind of promotion on this particular color after all).
 
 ### Display
 
-In 2017 I bought **[LG 27UD88-W][3]** display. It's 27", 4K and it has a USB-C connection which works great with my Macbook (one cable for power&display).
+In 2017 I bought **[LG 27UD88-W][3]** display. It's 27", 4K and it has a USB-C connection which works great with my MacBook (one cable for power&display).
 
-The only issue I had initially, was the USB-C cable itself. The one delivered with the display was to short for my cable management needs and I had to look for a replacement. The one provided with the Macbook doesn't transfer data (it transmits power only), the other ones are short or have some other issues. After some time, I found the right cable on Amazon, unfortunately, it's not available anymore.
+The only issue I had initially, was the USB-C cable itself. The one delivered with the display was to short for my cable management needs and I had to look for a replacement. The one provided with the MacBook doesn't transfer data (it transmits power only), the other ones are short or have some other issues. After some time, I found the right cable on Amazon, unfortunately, it's not available anymore.
 
 The display is mounted on a **Maclean MC-628**. It's cheap but for a couple of years I had 0 issues with it and I'm able to move the display in all directions. Sometimes I bring it closer to my face, sometimes I put it back. There's no such thing as one-hand, assisted arrangement, but it's good enough to not worry about it.
 
@@ -52,11 +52,11 @@ I have a couple of additional devices on my desk as well.
 
 ### Speakers
 
-Long time ago, it was 2002 or 2003 &#8211; I dreamed of having a 5.1 speaker system. I bought Creative Inspire 6.1 6700 back then. They are with me for almost 20 years already, even though I use them as 2.1 system right now.
+Long time ago, it was 2002 or 2003 --- I dreamed of having a 5.1 speaker system. I bought Creative Inspire 6.1 6700 back then. They are with me for almost 20 years already, even though I use them as 2.1 system right now.
 
-Ten years later I bought a pair of 2.0 **[Creative GigaWorks T20 Series II&nbsp;][6]**, but after few years and changing the desk I decided to put them back to the box and have some fun with the sub and two satellites from the 6700 set. Why? Mostly because of the size (satellites are very small) and they have a wired remote which is glued to the bottom of my desk and I use it to control the volume of the speakers.
+Ten years later I bought a pair of 2.0 **[Creative GigaWorks T20 Series II][6]**, but after few years and changing the desk I decided to put them back to the box and have some fun with the sub and two satellites from the 6700 set. Why? Mostly because of the size (satellites are very small) and they have a wired remote which is glued to the bottom of my desk and I use it to control the volume of the speakers.
 
-It's not ideal but for work &#8211; this setup is pretty much OK.
+It's not ideal but for work --- this setup is pretty much OK.
 
 ### Headphones
 
@@ -72,19 +72,19 @@ The clock is some no-name LCD device bought for 50PLN on Allegro. It shows the t
 
 {{< image src="20200121_P1211669-lubieniebieskipl-1.jpg">}}
 
-I love this one --- it's a beautiful **[Blue Snowball][8]** in a... blue colour. I bought it mostly because of the colour, but for the number of remote calls I do every day --- I think it's worth the investment. The microphone is mounted on a **[Rode PSA1][9]** arm and is one of the things that allows me to keep the desk tidy.
+I love this one --- it's a beautiful **[Blue Snowball][8]** in a... blue color. I bought it mostly because of the color, but for the number of remote calls I do every day --- I think it's worth the investment. The microphone is mounted on a **[Rode PSA1][9]** arm and is one of the things that allows me to keep the desk tidy.
 
 ### External camera
 
 {{< image src="20200121_P1211670-lubieniebieskipl-1.jpg">}}
 
-As I mentioned, I do a lot of Meet/Zoom/Slack calls every day, so it's important for me to have a decent Audio/Video setup. In addition to the Blue microphone described earlier, I use a **Logitech C920** webcam which offers nice quality and allows me to get a better angle than using a camera available on my Macbook.
+As I mentioned, I do a lot of Meet/Zoom/Slack calls every day, so it's important for me to have a decent Audio/Video setup. In addition to the Blue microphone described earlier, I use a **Logitech C920** webcam which offers nice quality and allows me to get a better angle than using a camera available on my MacBook.
 
 ### Phone
 
 **iPhone 6s** --- it works! I don't rely heavily on the phone so I don't need to upgrade it every year. However, I'm going to switch it as soon as iPhones will get the USB-C type connector. I love the photo quality of the iPhone 11, but the Lighting port was a dealbreaker last year.
 
-I use a stand for the phone which also holds the **Apple Watch** charger and allows me to charge the devices when I work at the desk and helps me to keep the cables organised.
+I use a stand for the phone which also holds the **Apple Watch** charger and allows me to charge the devices when I work at the desk and helps me to keep the cables organized.
 
 ## The Desk
 
