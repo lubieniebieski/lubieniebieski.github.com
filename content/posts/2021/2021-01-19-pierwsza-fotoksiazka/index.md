@@ -52,4 +52,4 @@ W bólach:) Ale nie takich jak sobie wyobrażałem! Jest aplikacja, ma gotowe la
 
 Kilka lat już nie wywoływałem fotek, ten krótki projekt uświadomił mi jak przyjemny jest efekt końcowy i że warto czasem poświęcić kawałek wieczoru, żeby móc "pomacać" wspomnienia!
 
-[1]: cewe.pl
+[1]: https://cewe.pl

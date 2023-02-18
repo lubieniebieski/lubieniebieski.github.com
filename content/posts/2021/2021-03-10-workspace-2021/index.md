@@ -155,11 +155,11 @@ I've added a few lighting sources around the room. The most important one is the
 
 That's it! If you have any questions --- reach out to me on Twitter [@lubieniebieski][20]!
 
-[1]: https://lubieniebieski.pl/workspace-2020/
+[1]: {{< relref "workspace-2020" >}}
 [2]: https://www.cnet.com/reviews/apple-MacBook-pro-16-inch-2019-review/
 [3]: https://www.raindesigninc.com/mstand.html
 [4]: https://www.amazon.com/dp/B01CDYB0QS
-[5]: https://lubieniebieski.pl/cyk006-new-wallpaper-992-911-gt3-turew-2021/
+[5]: {{< relref "cyk/006" >}}
 [6]: https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english
 [7]: https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver
 [8]: https://www.logitech.com/en-us/products/mice/mx-master-3-mac-wireless-mouse.html
