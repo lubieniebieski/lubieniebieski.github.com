@@ -24,19 +24,25 @@ title = "lubieniebieski by adam nowak"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "blog"
-        name = "✍️"
-        url = "/"
+        identifier = "categories"
+        name = "categories"
+        url = "/categories"
         weight = 1
 
       [[languages.en.menu.main]]
         identifier = "cyks"
-        name = "📸"
+        name = "cyk"
         url = "/categories/cyk"
         weight = 2
 
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "💁🏻‍♂️"
+        name = "about"
         url = "/about"
         weight = 3
+
+      [[languages.en.menu.main]]
+        identifier = "rss"
+        name = "RSS"
+        url = "/about"
+        weight = 4

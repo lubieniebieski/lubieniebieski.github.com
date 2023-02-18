@@ -5,11 +5,11 @@ type: page
 date: 2020-01-23T09:01:05+00:00
 ---
 
-## My name is Adam, nice to meet you!
+## My name is Adam, nice to meet you
 
 {{< image src="its_adam_nowak.jpg" caption="Hello Friend" position="left" style="border-radius: 8px;max-width:100px;float:left;margin-right:20px" >}}
 
-All I want to do on this page is to share my thoughts with the world and help others understand things which I struggle(d) with, so they don’t have to come through the pain by themselves!
+All I want to do on this page is to share my thoughts with the world and help others understand things which I struggle(d) with, so they don't have to come through the pain by themselves!
 
 I enjoy helping people. 🙌
 
