@@ -42,7 +42,13 @@ title = "lubieniebieski by adam nowak"
         weight = 3
 
       [[languages.en.menu.main]]
+        identifier = "uses"
+        name = "uses"
+        url = "/uses"
+        weight = 4
+
+      [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
         url = "/about"
-        weight = 4
+        weight = 5
