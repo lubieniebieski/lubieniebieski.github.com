@@ -3,20 +3,24 @@ title: "Uses"
 date: 2023-02-20T21:32:34+01:00
 ---
 
+> If you're interested about some hardware-related paragraphs, look [here][25]
+
+## Software
+
 At work, I have to spend a lot of times in meetings, listen to people, analyze input and make educated decisions based on that. After work I still like to code from time to time, keep my family relevant in the online environment. And here is a list of tools that help me to survive almost everyday:
 
-## Notes, writing
+### Notes, writing
 
-- [Craft][1]]: note-taking / PKM / journaling. Powerful search, build in assistant and it's [optimized for Mac][2]] -- my favorite example of how the app should "feel".
+- [Craft][1]: note-taking / PKM / journaling. Powerful search, build in assistant and it's [optimized for Mac][2] -- my favorite example of how the app should "feel".
 - [Mindnode][3]: mind-mapping software for Mac, iPhone, and iPad. I start a lot of my projects and thoughts with this app and then move to Craft or another place to continue.
 - [Notability][4]: note taking/sketching/drawing app for iPad. I use it to take notes during meetings, draw diagrams, etc. It's a great tool for that.
 - [Visual Studio Code][5]: my code editor of choice. I'm not that actively writing code these days, but I still use it for some projects. I've tried a lot of editors, but this one is the best for me. Still in love with Vim, though (it's a shame that muscle memory vanished after long break).
 - [Excalidraw][6]: An open source virtual hand-drawn style whiteboard tool for sketching diagrams that have a hand-drawn feel to them.
 - [DayOne][7]: Journaling app. I use it to keep track of my daily activities, thoughts, and other crazy things I've done during the day.
 
-## Productivity
+### Productivity
 
-- [Raycast][8]: `CMD+SPACE` is my favorite shortcut. This is how I communicate with my computer: browsing through meetings, converting currencies, searching for files, translating words, ... and many many more!
+- [Raycast][8]: `CMD + SPACE` is my favorite shortcut. This is how I communicate with my computer: browsing through meetings, converting currencies, searching for files, translating words, ... and many many more!
 - [Arc Browser][9]: nicest UX for browsing the web. Absolutely love it.
 - [MeetingBar][10]: very fast access to my calendar and upcoming meetings. One shortcut away from joining the meeting.
 - [CleanShotX][11]: Taking screenshots was never so easy and satisfying (UX!).
@@ -28,16 +32,16 @@ At work, I have to spend a lot of times in meetings, listen to people, analyze i
 - [Things3][17]: collecting tasks, organizing them, and getting things done.
 - [iStat Menus][18]: iStat Menus is a system monitor for Mac that helps you track how your system is performing. It provides an easy way to keep an eye on your CPU, memory, storage, and network usage.
 
-## Social
+### Social
 
 - [Ivory][19]: app I'm using to explore [Fediverse][20], mostly Mastodon.
 
-## Knowledge
+### Knowledge
 
 - [Reeder][21]: RSS reader for Mac and iOS. I use it to keep up with the latest news in the tech industry.
 - [Overcast][22]: My favorite podcast app for iOS. It's simple, fast, and has a lot of features. I use it to listen to podcasts while driving, working out, etc. Smart speed FTW!
 
-## Fun
+### Fun
 
 - [Apple Music][23]: Not very social like Spotify, but it gets the job done.
 - [Lightroom][24]: I like to take photos from time to time and it's hard for me to imagine my life without editing them before the are added to my photo library.
@@ -66,3 +70,5 @@ At work, I have to spend a lot of times in meetings, listen to people, analyze i
 [22]: https://overcast.fm
 [23]: https://www.apple.com/music/
 [24]: https://www.adobe.com/products/photoshop-lightroom.html
+
+[25]: {{< ref "workspace-2021" >}}
