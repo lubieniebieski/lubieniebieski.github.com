@@ -9,7 +9,7 @@ tags:
   - uses
 ---
 
-I always wanted to share more about how do I work. I really like the idea of [uses page][1] and I'm happy to have one, too! The first experiment back in the day was my [workspace page][2] -- a lot of people actually asked me about some details and recommendations. Thanks to them -- they were able to help themselves save some time and (HOPEFULLY!) improve their work environment.
+I always wanted to share more about how do I work. I really like the idea of [uses page][1] and I'm happy to have one, too! The first experiment back in the day was my [workspace page][2] -- a lot of people actually asked me about some details and recommendations. Thanks to these recommendations, my colleagues were able to save some time and (HOPEFULLY!) improve their work environment.
 
 Why? Because when I explore peoples' pages, I can learn a lot about them and how do they work. More importantly, I can learn about tools that I didn't know about before. And that's what I want to do with my page.
 
