@@ -50,5 +50,10 @@ title = "lubieniebieski by adam nowak"
       [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
-        url = "/about"
+        url = "/feed.xml"
         weight = 5
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss+xml"
+    baseName = "feed"
