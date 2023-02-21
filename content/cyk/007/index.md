@@ -9,6 +9,7 @@ tags:
   - city
 categories:
   - cyk
+showFullContent: true
 ---
 
 Taken during the family trip to Kraków in 2023. It was surprisingly cold that night, around -10°C. Streets were pretty empty that night.

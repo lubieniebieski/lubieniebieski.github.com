@@ -9,15 +9,9 @@ tags:
   - wallpaper
 categories:
   - cyk
-keywords: []
-description: ""
-showFullContent: false
-readingTime: false
-hideComments: false
-color: "" #color from the theme settings
 ---
 
-This week, the new Porsche GT3 has it&#8217;s premiere.
+This week, the new Porsche GT3 has it's premiere.
 
 {{< youtube XdBDWTLe49g >}}
 
