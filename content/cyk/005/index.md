@@ -9,12 +9,7 @@ tags:
   - morning
 categories:
   - cyk
-keywords: []
-description: ""
-showFullContent: false
-readingTime: false
-hideComments: false
-color: "" #color from the theme settings
+showFullContent: true
 ---
 
 Czasami warto z rana przejść się po okolicy, widoki wynagradzają. Listopad w swojej łagodnej okazałości!
