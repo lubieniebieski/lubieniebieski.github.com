@@ -1,0 +1,16 @@
+<ul>
+  {{ $apiUrl := .Get "url" }}
+  {{ $links := getJSON $apiUrl }}
+
+  {{ range $links.data }}
+    <li>
+      <a href="{{ .url }}">{{ .url }}</a>
+      <ul>
+        <li>{{ .description }}</li>
+        {{ if .source }}
+          <li>via <i>{{ .source }}</i></li>
+        {{ end }}
+      </ul>
+    </li>
+  {{ end }}
+</ul>
