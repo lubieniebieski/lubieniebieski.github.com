@@ -9,12 +9,17 @@
     {{ if .IsHome }}
       {{ $PageContext = .Site }}
     {{ end }}
-    {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" "in" (slice "posts" "cyk")) }}
+    {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" "in" (slice "posts" "cyk" "links")) }}
 
     {{ range $paginator.Pages }}
       <article class="post on-list">
         <h1 class="post-title">
-          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          {{ if .Params.link }}
+            <a href="{{ .Params.link }}">↗️ {{ .Title | markdownify }}</a>
+            <a href="{{ .Permalink }}">🔹</a>
+          {{ else }}
+            <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          {{ end }}
         </h1>
 
         <div class="post-meta">
