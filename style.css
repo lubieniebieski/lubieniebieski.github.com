@@ -2,6 +2,10 @@ body {
   font-size: 1.3rem;
 }
 
+blockquote {
+  font-style: italic;
+}
+
 .navigation-menu a {
   text-decoration: none;
 }
