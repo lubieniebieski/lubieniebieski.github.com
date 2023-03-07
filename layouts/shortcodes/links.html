@@ -1,16 +1,39 @@
-<ul>
-  {{ $apiUrl := .Get "url" }}
-  {{ $links := getJSON $apiUrl }}
+<small>ℹ️ Hovering over title reveals the description of the link.</small>
 
-  {{ range $links.data }}
-    <li>
-      <a href="{{ .url }}">{{ .url }}</a>
-      <ul>
-        <li>{{ .description }}</li>
-        {{ if .source }}
-          <li>via <i>{{ .source }}</i></li>
+{{ $apiUrl := .Get "url" }}
+{{ $links := getJSON $apiUrl }}
+
+{{ $data := $links }}
+{{ $.Scratch.Set "isMonthHeaderCreated" false }}
+
+{{ $timestamps := slice }}
+{{ range $key, $value := $links }}
+  {{ $timestamps = append (dateFormat "January, 2006" $value.timestamp) $timestamps }}
+{{ end }}
+{{ $timestamps = uniq $timestamps }}
+
+{{ range $index, $date := $timestamps }}
+  <h2>{{ $date }}</h2>
+  {{ range $links }}
+    {{ if eq (dateFormat "January, 2006" .timestamp) $date }}
+      <div>
+        {{ if eq .source "mastodon" }}
+          <a
+            href="{{ .sourceUrl }}"
+            title="Click here for the original toot on Mastodon"
+            >🐘</a
+          >
+        {{ else }}
+          ⭐️
         {{ end }}
-      </ul>
-    </li>
+        <a href="{{ .url }}" title="{{ .description }}">{{ .title }}</a>
+
+        {{ range .tags }}
+          <code>
+            #{{- . -}}
+          </code>
+        {{ end }}
+      </div>
+    {{ end }}
   {{ end }}
-</ul>
+{{ end }}
