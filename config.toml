@@ -36,9 +36,9 @@ title = "lubieniebieski by adam nowak"
         weight = 2
 
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "about"
-        url = "/about"
+        identifier = "linklog"
+        name = "linklog"
+        url = "/linklog"
         weight = 3
 
       [[languages.en.menu.main]]
@@ -48,10 +48,16 @@ title = "lubieniebieski by adam nowak"
         weight = 4
 
       [[languages.en.menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about"
+        weight = 5
+
+      [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
         url = "/feed.xml"
-        weight = 5
+        weight = 6
 
 [outputFormats]
   [outputFormats.RSS]
