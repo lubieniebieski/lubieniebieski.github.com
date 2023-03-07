@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>site on lubieniebieski by adam nowak</title><link>https://lubieniebieski.pl/categories/site/</link><description>Recent content in site on lubieniebieski by adam nowak</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Feb 2023 22:38:21 +0100</lastBuildDate><atom:link href="https://lubieniebieski.pl/categories/site/feed.xml" rel="self" type="application/rss+xml"/><item><title>Uses Page Is Up</title><link>https://lubieniebieski.pl/posts/2023/02/uses-page-is-up/</link><pubDate>Mon, 20 Feb 2023 22:38:21 +0100</pubDate><guid>https://lubieniebieski.pl/posts/2023/02/uses-page-is-up/</guid><description>I always wanted to share more about how do I work. I really like the idea of uses page and I&amp;rsquo;m happy to have one, too! The first experiment back in the day was my workspace page &amp;ndash; a lot of people actually asked me about some details and recommendations. Thanks to these recommendations, my colleagues were able to save some time and (HOPEFULLY!) improve their work environment.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>site on lubieniebieski by adam nowak</title><link>https://lubieniebieski.pl/categories/site/</link><description>Recent content in site on lubieniebieski by adam nowak</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2023 23:13:06 +0100</lastBuildDate><atom:link href="https://lubieniebieski.pl/categories/site/feed.xml" rel="self" type="application/rss+xml"/><item><title>How to create a linklog in a few easy steps</title><link>https://lubieniebieski.pl/posts/2023/03/linklog/</link><pubDate>Tue, 07 Mar 2023 23:13:06 +0100</pubDate><guid>https://lubieniebieski.pl/posts/2023/03/linklog/</guid><description>Linklog. Few days ago I didn&amp;rsquo;t even know what it is. But then I found an interesting approach on Robb Knight&amp;rsquo;s page (I will repeat myself here for the n-th time, but I really like his approach to the web and online presence!). Then I found Jeremy Keith&amp;rsquo;s page and I was like: &amp;ldquo;I want to have something like this too!&amp;rdquo;. So I created a Linklog.
+So you think that&amp;rsquo;s it?</description><content>&lt;p>Linklog. Few days ago I didn&amp;rsquo;t even know what it is. But then I found an interesting approach on &lt;a href="https://rknight.me/micro/boosts/">Robb Knight&amp;rsquo;s page&lt;/a> (&lt;em>I will repeat myself here for the n-th time, but I really like his approach to the web and online presence!&lt;/em>). Then I found &lt;a href="https://adactio.com/links/">Jeremy Keith&amp;rsquo;s page&lt;/a> and I was like: &amp;ldquo;I want to have something like this too!&amp;rdquo;. So I created a &lt;strong>Linklog&lt;/strong>.&lt;/p>
+&lt;p>So you think that&amp;rsquo;s it? Just an inspiration and a few lines of code and here we are?&lt;/p>
+&lt;p>Haha.&lt;/p>
+&lt;p>No, not with me!&lt;/p>
+&lt;h2 id="the-story-isnt-that-simple">The story isn&amp;rsquo;t that simple&lt;/h2>
+&lt;ol>
+&lt;li>Let&amp;rsquo;s take a look at my links&lt;/li>
+&lt;li>Reeder. More than 100 unread items in the read-it-later list.&lt;/li>
+&lt;li>Let&amp;rsquo;s tag things.&lt;/li>
+&lt;li>Oh, I have a wrong tag on my item from 2019. It&amp;rsquo;s a typo there. Not a big deal, I will rename it.&lt;/li>
+&lt;li>You can&amp;rsquo;t rename the tag in Reeder!&lt;/li>
+&lt;li>Moreover, there&amp;rsquo;s no way of working with multiple items at once.&lt;/li>
+&lt;li>Let&amp;rsquo;s search for an alternative!&lt;/li>
+&lt;li>&lt;a href="https://readwise.io/read">Reader from Readwise&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://netnewswire.com/">NetNewsWire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://feedbin.com/">Feedbin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://readkitapp.com/">ReadKit&lt;/a>&lt;/li>
+&lt;li>[it&amp;rsquo;s already been more than a week since (3.)]&lt;/li>
+&lt;li>How about we report the bug to Reeder developer?&lt;/li>
+&lt;li>Bugs reported, no response so far.&lt;/li>
+&lt;li>Hmm, I had this &lt;a href="https://getpocket.com/">Pocket&lt;/a> account for a while. Maybe I should use it?&lt;/li>
+&lt;li>For sure there are better alternatives to Pocket.&lt;/li>
+&lt;li>I had also this &lt;a href="https://www.instapaper.com/">Instapaper&lt;/a> account&amp;hellip;&lt;/li>
+&lt;li>Someone mentioned &lt;a href="https://raindrop.io/">Raindrop&lt;/a> on Reddit (or somewhere else).&lt;/li>
+&lt;li>Talked to a friend about it. I don&amp;rsquo;t think he still doesn&amp;rsquo;t know what I&amp;rsquo;m talking about with this &lt;code>/links&lt;/code> thing. &lt;strong>Hello Bartek!&lt;/strong>&lt;/li>
+&lt;li>But he says that Pocket is good, because it&amp;rsquo;s a backend that might power up Reeder.&lt;/li>
+&lt;li>Something clicked.&lt;/li>
+&lt;li>Let&amp;rsquo;s build an integration in Zapier that saves saved items from Pocket to Raindrop and let&amp;rsquo;s build an API on top of Raindrop that will be exposed by my own API and then processed and served as JSON, so it can again be consumed by the blog website you are reading right now.&lt;/li>
+&lt;li>&amp;hellip; exactly, I didn&amp;rsquo;t mention creating my own API! (because I had this idea of exposing &amp;ldquo;myself&amp;rdquo; in form of consumable API&amp;hellip; I know many&amp;hellip; One? Consumer. Well, irrelevant for now, let&amp;rsquo;s go!)&lt;/li>
+&lt;li>So this Zapier works but I realized&amp;hellip; why the heck can&amp;rsquo;t I just use Pocket everywhere, they have good integrations with the system, browser, mobile etc. and see point (20.) &amp;ndash; it might power up Reeder (which I really like!). So I decided to use Pocket.&lt;/li>
+&lt;li>Implementing OAuth, getting token, I&amp;rsquo;m in!&lt;/li>
+&lt;li>Let&amp;rsquo;s write the API in Go, seems easy, I always wanted to have a real project in Go.&lt;/li>
+&lt;li>[3 mins later]. Oh, I need to learn Go first. Let&amp;rsquo;s use Ruby &amp;amp; Sinatra and finish this task this year.&lt;/li>
+&lt;li>Of course, I have to have a Dev Container for development, not that I use just Ruby and 2 gems and I already have them in my system.&lt;/li>
+&lt;li>I&amp;rsquo;m in, I fetched links from Pocket and I have JSON api returning them in a slightly different form.&lt;/li>
+&lt;li>Why don&amp;rsquo;t we add also boosted links from Mastodon as originally planned?&lt;/li>
+&lt;li>Mastodon API, here we go.&lt;/li>
+&lt;li>New classes added, Copilot is helping me with the code, I&amp;rsquo;m making progress and I have a working API.&lt;/li>
+&lt;li>Pocket + Mastodon work together as one endpoint, my job is done with API for now.&lt;/li>
+&lt;li>Where do I host this thing. Is Heroku still free? I don&amp;rsquo;t think so.&lt;/li>
+&lt;li>&lt;a href="https://fly.io/">fly.io&lt;/a> seems to be a good idea in theory&amp;hellip;&lt;/li>
+&lt;li>&amp;hellip; and in practice, too! &lt;code>flyctl deploy&lt;/code> and I&amp;rsquo;m done with API.&lt;/li>
+&lt;li>Let&amp;rsquo;s get back to the blog and add the links.&lt;/li>
+&lt;li>Hmmm, but how do I comment on the links? I don&amp;rsquo;t want to have a separate page for each link. Maybe I should have something like DaringFireball&amp;rsquo;s links?&lt;/li>
+&lt;li>Totally, I will do that.&lt;/li>
+&lt;li>New page type in Hugo, new shortcode, new template, new CSS, new content, new content type, &amp;hellip;&lt;/li>
+&lt;li>Ok, system is in place. Do I actually have a link to comment on?&lt;/li>
+&lt;li>Yeah, there is one, let&amp;rsquo;s do it.&lt;/li>
+&lt;li>One post later, I have a working &lt;a href="https://lubieniebieski.pl/links/1/">proof of concept in place&lt;/a>.&lt;/li>
+&lt;li>Deploying blog to production.&lt;/li>
+&lt;li>Automation kicks in, posts a link on Mastodon.&lt;/li>
+&lt;li>BUT THE TEMPLATE DOESN&amp;rsquo;T INDICATE THAT THIS IS AN EXTERNAL LINK IN THE POTS&amp;rsquo;S TITLE, I need to resolve that before thousands complaints from people are going to reach my inbox.&lt;/li>
+&lt;li>Damn, what about the links in RSS feed? How to make a different link in the feed, not linking to my page, but to the one that I want to share?&lt;/li>
+&lt;li>Let&amp;rsquo;s leave that for now, when people get to the blog, they will see the link to the external page. Problem solved.&lt;/li>
+&lt;li>But how to indicate the external page?&lt;/li>
+&lt;li>Should I use ↗️ or 🔗 or 🌐 or 🌍 or 🌎 or 🌏?&lt;/li>
+&lt;li>I don&amp;rsquo;t know, let&amp;rsquo;s use ↗️, looks cool in blue.&lt;/li>
+&lt;li>Now I can add commentary on the links I find in the Internet, how cool is that?&lt;/li>
+&lt;li>Reflections kicks in &amp;ndash; why don&amp;rsquo;t I use Mastodon for that&amp;hellip; nah, let&amp;rsquo;s not waste time for overthinking!&lt;/li>
+&lt;li>New &lt;code>/linklog&lt;/code> page created, new shortcode, new template, &amp;hellip; you know the drill.&lt;/li>
+&lt;li>But this time it&amp;rsquo;s also about fetching JSON from my API page, you remember? And I haven&amp;rsquo;t done anything like that before.&lt;/li>
+&lt;li>Ok, I&amp;rsquo;m implementing and playing with Go (that&amp;rsquo;s what I wanted, right?), code looks like 💩 but it works.&lt;/li>
+&lt;li>Unsorted list? Sorted list? Paragraphs? Let&amp;rsquo;s do paragraphs.&lt;/li>
+&lt;li>I think this blog needs CSS changes in the template&amp;hellip;&lt;/li>
+&lt;li>&amp;hellip; no I didn&amp;rsquo;t go this route, I know it would end up with a lot of changes and I don&amp;rsquo;t have time for that (hehe).&lt;/li>
+&lt;li>It looks good without modification, actually. Let&amp;rsquo;s just group links by month.&lt;/li>
+&lt;li>Group fetched JSON by month&amp;hellip;&lt;/li>
+&lt;li>Group fetched JSON&amp;hellip;&lt;/li>
+&lt;li>Documentation, documentation, random blogposts, Discourse&amp;hellip;&lt;/li>
+&lt;li>GOT IT!&lt;/li>
+&lt;li>I love the end result. I&amp;rsquo;m happy with it.&lt;/li>
+&lt;li>Commit!&lt;/li>
+&lt;li>Deploy?&lt;/li>
+&lt;li>NO! Write a post about it first!&lt;/li>
+&lt;li>&lt;em>I created a linklog. But the story isn&amp;rsquo;t that simple&amp;hellip;&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;p>Howgh!&lt;/p></content></item><item><title>Uses Page Is Up</title><link>https://lubieniebieski.pl/posts/2023/02/uses-page-is-up/</link><pubDate>Mon, 20 Feb 2023 22:38:21 +0100</pubDate><guid>https://lubieniebieski.pl/posts/2023/02/uses-page-is-up/</guid><description>I always wanted to share more about how do I work. I really like the idea of uses page and I&amp;rsquo;m happy to have one, too! The first experiment back in the day was my workspace page &amp;ndash; a lot of people actually asked me about some details and recommendations. Thanks to these recommendations, my colleagues were able to save some time and (HOPEFULLY!) improve their work environment.
 Why? Because when I explore peoples&amp;rsquo; pages, I can learn a lot about them and how do they work.</description><content>&lt;p>I always wanted to share more about how do I work. I really like the idea of &lt;a href="https://uses.tech/">uses page&lt;/a> and I&amp;rsquo;m happy to have one, too! The first experiment back in the day was my &lt;a href="https://lubieniebieski.pl/workspace-2021/">workspace page&lt;/a> &amp;ndash; a lot of people actually asked me about some details and recommendations. Thanks to these recommendations, my colleagues were able to save some time and (HOPEFULLY!) improve their work environment.&lt;/p>
 &lt;p>Why? Because when I explore peoples&amp;rsquo; pages, I can learn a lot about them and how do they work. More importantly, I can learn about tools that I didn&amp;rsquo;t know about before. And that&amp;rsquo;s what I want to do with my page.&lt;/p>
 &lt;p>My uses page is just a click away in the main menu or you can just go straight to &lt;a href="https://lubieniebieski.pl/uses/">the /uses page&lt;/a>.&lt;/p>
