@@ -61,5 +61,4 @@ title = "lubieniebieski by adam nowak"
 
 [outputFormats]
   [outputFormats.RSS]
-    mediatype = "application/rss+xml"
     baseName = "feed"
