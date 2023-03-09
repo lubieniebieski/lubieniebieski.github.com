@@ -62,3 +62,7 @@ title = "lubieniebieski by adam nowak"
 [outputFormats]
   [outputFormats.RSS]
     baseName = "feed"
+
+[caches]
+  [caches.getjson]
+    maxAge = 3600
