@@ -1,9 +1,10 @@
 ---
-title: "URLs #1: Are we going back to the earlier days of the web?"
+title: "The URLs #1: Are we going back to the earlier days of the web?"
 author: adam nowak
 date: "2023-03-11T20:05:49+01:00"
-url:
-description:
+url: /urls/1
+description: I didn't want to spend eternity on figuring out a clever name, so we start with "URLs". Below you will find links I collected recently. As bonus to these links, you can find my commentary/description / recommendation. Enjoy "The URLs"!
+
 categories:
   - urls
 tags:
@@ -17,7 +18,7 @@ tags:
   - culture
 ---
 
-I didn't want to spend eternity on figuring out a clever name, so we start with "URLs". Below you will find links I collected recently. As bonus to these links, you can find my commentary/description / recommendation. Enjoy the URLs!
+I didn't want to spend eternity on figuring out a clever name, so we start with "URLs". Below you will find links I collected recently. As bonus to these links, you can find my commentary/description / recommendation. Enjoy the first edition of **The URLs**!
 
 ## Theme: Are we going back to the earlier days of the web?
 
