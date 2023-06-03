@@ -20,7 +20,7 @@ It was supposed to be a comedy, a moment when I could turn my brain off for a bi
 
 I started watching Ted Lasso just a few weeks ago. I had a tough time at work and needed something to cheer me up. I've heard good things about the show, so I decided to give it a try. I was hooked after the first episode.
 
-I've asked around my close friends and colleagues, and everyone seems to love it, especially people who are managers (maybe not football)!
+I've asked around my close friends and colleagues, and everyone seems to love it. Especially those in managerial roles, as they can relate to what's going on in the locker room and on the pitch, even though they don't deal with footballers on a daily basis.
 
 I started recommending it to other people, and the best part of it is the message I got on holiday, around 7:30 am, from a friend who said:
 
