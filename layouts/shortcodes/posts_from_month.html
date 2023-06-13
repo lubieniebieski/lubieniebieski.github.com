@@ -1,6 +1,6 @@
 {{ $month := .Get 0 }}
 <ul>
-  {{ range where .Site.RegularPages "Type" "in" (slice "posts" "cyk") }}
+  {{ range where .Site.RegularPages "Type" "in" (slice "posts" "cyk" "bullets") }}
     {{ if eq (dateFormat "2006-01" .Date) $month }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>

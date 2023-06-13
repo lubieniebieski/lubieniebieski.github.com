@@ -9,7 +9,7 @@
     {{ if .IsHome }}
       {{ $PageContext = .Site }}
     {{ end }}
-    {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" "in" (slice "posts" "cyk" "links")) }}
+    {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" "in" (slice "posts" "cyk" "links" "bullets")) }}
 
     {{ range $paginator.Pages }}
       <article class="post on-list">
