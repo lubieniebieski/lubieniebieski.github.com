@@ -18,3 +18,7 @@ blockquote {
   margin-left: auto;
   flex: none;
 }
+
+.post li + li {
+  margin-top: 10px;
+}
