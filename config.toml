@@ -18,9 +18,11 @@ title = "lubieniebieski by adam nowak"
 [languages]
   [languages.en]
     languageName = "English"
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+
+    [languages.en.params]
+      readMore = "Read more"
+      menuMore = "Show more"
+      readOtherPosts = "Read other posts"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
