@@ -62,4 +62,12 @@
       {{ partial "comments.html" . }}
     {{ end }}
   </article>
+  <blockquote>
+    👋🏻 If you see an error or a typo -- feel free to submit a pull request to
+    <a
+      href="https://github.com/lubieniebieski/lubieniebieski.github.com/tree/master/content/{{ .File.Path }}"
+      >{{ .File.Path }}</a
+    >
+    in the repository.
+  </blockquote>
 {{ end }}
