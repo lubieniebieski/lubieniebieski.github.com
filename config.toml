@@ -1,7 +1,7 @@
 baseURL = "https://lubieniebieski.pl"
 languageCode = "en-us"
 theme = "terminal"
-
+enableGitInfo = true
 title = "lubieniebieski by adam nowak"
 
 [params]
@@ -11,6 +11,8 @@ title = "lubieniebieski by adam nowak"
   ogimage = "favicon-512.png"
   appleTouchIcon = "apple-touch-icon.png"
   subtitle = "made with 💙"
+  showLastUpdated = true
+
   [params.logo]
     logoText = "lubieniebieski // adam nowak"
     logoHomeLink = "/"
