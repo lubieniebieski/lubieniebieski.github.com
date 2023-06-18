@@ -1,0 +1,66 @@
+#webmentions {
+  margin: 0;
+  position: relative;
+  z-index: 100;
+  line-height: 1.2em;
+}
+
+#webmentions .comments {
+  font-size: 80%;
+}
+
+#webmentions .reacts img {
+  margin: 3px -1ex 1px 0;
+}
+
+#webmentions img.missing {
+  background: white;
+  border: dashed black 1px;
+}
+
+#webmentions ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 4px;
+}
+
+#webmentions li {
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
+#webmentions a.reaction {
+  position: relative;
+  text-decoration: none;
+  text-shadow: 0px 0px 3px white;
+  margin-right: 0;
+  letter-spacing: -1ex;
+  margin-right: 1ex;
+}
+
+#webmentions a.reaction img {
+  max-height: 1.3em;
+  width: auto;
+  margin-right: -1ex;
+  border-radius: 25%;
+  display: inline;
+}
+
+#webmentions a.reaction sub {
+  font-size: 50%;
+}
+
+#webmentions .comments li {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+#webmentions .comments li .text {
+  color: #555;
+  font-style: italic;
+  text-decoration: none;
+}
+
+#webmentions .comments li .name {
+  color: #111;
+}

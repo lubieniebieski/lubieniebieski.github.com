@@ -16,4 +16,5 @@
   src="https://tinylytics.app/embed/8oa3sNjAY7QiyueJgjV7.js"
   defer
 ></script>
-<script src="/webmention.min.js" async></script>
+{{ $webmentionJs := resources.Get "js/webmention.js" | minify }}
+<script src="{{ $webmentionJs.RelPermalink }}" async></script>
