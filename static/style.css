@@ -2,15 +2,24 @@ body {
   font-size: 1.3rem;
 }
 
-blockquote.info {
-  font-style: italic;
-  font-size: 80%;
-  padding: 10px;
-  border: 1px dashed rgb(35, 176, 255, 1);
-  border-left: none;
-  border-right: none;
-  text-align: center;
-  background-color: rgb(35, 176, 255, 0.1);
+blockquote {
+  &.panel {
+    font-style: italic;
+    font-size: 80%;
+    padding: 10px;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+  }
+  &.info {
+    border: 1px dashed rgb(35, 176, 255, 1);
+    background-color: rgb(35, 176, 255, 0.1);
+  }
+
+  &.misc {
+    border: 1px dashed rgb(100, 100, 100, 1);
+    background-color: rgba(100, 100, 100, 0.1);
+  }
 }
 
 .navigation-menu a {
