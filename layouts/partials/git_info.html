@@ -8,7 +8,7 @@
       >{{ .GitInfo.AbbreviatedHash }}</a
     >
     on {{ (.GitInfo.AuthorDate).Format "2006-01-02" }} at
-    {{ (time .GitInfo.AuthorDate "Europe/Warsaw").Local | time.Format "15:03"  | upper }}.
+    {{ time .GitInfo.AuthorDate | time.Format "15:03"  | upper }}.
     <a
       href="https://github.com/lubieniebieski/lubieniebieski.github.com/tree/master/content/{{ .File.Path }}"
       title="This page’s commit history"
