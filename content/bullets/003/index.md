@@ -39,7 +39,7 @@ This week's been a blast! I've been posting like there's no tomorrow - this 'bul
 
 ## Trauma is Trauma
 
-- 🤕 Bad things happen to all of us, more and more people deals with mental health issues, that's not an easy topic and it's not easy to talk about it. I watched the video [Trauma is Trauma: A Mental Health Talk with Kevin Smith | PEOPLE][9]|[Trauma is Trauma: A Mental Health Talk with Kevin Smith | PEOPLE][9]. It left a big impression on me and changed the way I perceived trauma (_"it's nothing"_)... If you want to learn why there's no _"trauma olympics"_ and that any trauma is just trauma, go and listen to this video.
+- 🤕 Bad things happen to all of us, more and more people deals with mental health issues, that's not an easy topic and it's not easy to talk about it. I watched the video [Trauma is Trauma: A Mental Health Talk with Kevin Smith | PEOPLE][9]. It left a big impression on me and changed the way I perceived trauma (_"it's nothing"_)... If you want to learn why there's no _"trauma olympics"_ and that any trauma is just trauma, go and listen to this video.
 
 ## Ending on a positive note
 
