@@ -46,7 +46,6 @@ Welcome to Bullets #5! You can read the previous one here: [bullets/4][1].
 - ❌ I mean... WTF:D I wouldn't bother, but a lot of short material (including the one from TdF) is still posted there, I wish the Eurosport crew is going to migrate to Mastodon soon!
 - 🏋️‍♂️ I thought it was another service from our beloved [@adam][12], but I don't think that's the case! [workout.lol][13] is a cool site giving you a lot of ideas about possible exercises. I'm not an expert in the area, but it appears solid and adjusts the results based on the equipment you have, so you don't end up with ten different exercise ideas that you can't perform because you don't own a kettlebell. I might have something similar in [Fitbod][14], but workout.lol is a free service!
 
-[1]: {{< ref "/bullets/004" >}}
 [2]: https://twitter.com/eurosport/status/1681684156835590144/
 [3]: https://www.youtube.com/watch?v=pjTROQR9pHQ
 [4]: https://letterboxd.com/
@@ -60,5 +59,8 @@ Welcome to Bullets #5! You can read the previous one here: [bullets/4][1].
 [12]: https://social.lol/@adam
 [13]: https://workout.lol/
 [14]: https://fitbod.me/
+
+[1]: {{< ref "/bullets/004" >}}
+
 [^1]: Bory Tucholskie National Park (Polish: Park Narodowy "Bory Tucholskie")
 [^2]: I'd call it a Polish IMDB

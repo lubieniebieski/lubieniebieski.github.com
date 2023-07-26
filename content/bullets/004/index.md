@@ -44,13 +44,12 @@ Welcome to Bullets #4! You can read the previous one here: [bullets/3][1].
 
 - 📚 I finished reading [Sooner Safer Happier][4] and found it insightful for improving in the coming weeks. The quote _"Be the best at being better"_ resonated with me.
 - 😎 We had a great time at company retreat, it was so nice to see people with legs[^3] and have a proper amount of laughs and fun!
-- 🍿 I watched [Extraction (2020) - IMDb](https://www.imdb.com/title/tt8936646/) and [Extraction II (2023) - IMDb](https://www.imdb.com/title/tt12263384/) -- I'm a simple man and I enjoyed them!
+- 🍿 I watched [Extraction (2020) - IMDb][12] and [Extraction II (2023) - IMDb][13] -- I'm a simple man and I enjoyed them!
 - I'm also experiencing with [Trakt][5], as I've never used it before, and even though I initially went for [Letterboxd][6], I'm not sure if I'll stick with it. I don't need a social network for movies, I just want to track what I've watched and what I want to watch. Plus, Letterboxd doesn't allow to track TV Shows, and I have to use a separate app for that. I'll see how it goes. Thanks to [Marco][7] for sparking my interest in exploring different platforms.
 - 😶‍🌫️ For ChatGPT stuff, I went for [TypingMind — A better UI for ChatGPT][8], which is exactly what it promises to be -- A better UI for ChatGPT. This time, the trigger for me was the invoice for ChatGPT Plus compared with the spending through API. After 3 secs calculation, I decided to go for an API-only approach and found TypingMind. Works great!
 - 📸 I'm quite happy with the [drone photos][9] I've made recently!
 - 💬 I found an article about blog comments and using Activity Pub for that [Toot toot! Mastodon-powered Blog Comments ⋅ Cassidy James Blaede][10] -- it looks like something I have on my site right now, but without all of the [Webmentions][11] stuff. I'll have to look into it.
 
-[1]: {{< ref "/bullets/003" >}}
 [2]: https://bobiko.blog/2023/07/co-zwrocilo-moja-uwage-w-czerwcu-2023/
 [3]: https://www.facebook.com/serwisrowerowyczempin/
 [4]: https://www.goodreads.com/book/show/50343488-sooner-safer-happier
@@ -58,10 +57,14 @@ Welcome to Bullets #4! You can read the previous one here: [bullets/3][1].
 [6]: https://letterboxd.com/
 [7]: https://social.lol/@esamecar/110665754437786834
 [8]: https://www.typingmind.com/
-[9]: {{< ref "/cyk/010" >}}
+[12]: https://www.imdb.com/title/tt8936646/
+[13]: https://www.imdb.com/title/tt12263384/
 [10]: https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/
-[11]: {{< ref "posts/2023/02/playing-with-webmentions" >}}
 
 [^1]: General Classification, the main ranking in the Tour de France. The rider with the lowest time wins the race.
 [^2]: To be honest, QUITE A LOT!!!
 [^3]: These days, most of the time we see each other on video calls, so it was nice to see people who are more than just a head and shoulders.
+
+[1]: {{< ref "/bullets/003" >}}
+[9]: {{< ref "/cyk/010" >}}
+[11]: {{< ref "posts/2023/02/playing-with-webmentions" >}}
