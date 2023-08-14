@@ -70,5 +70,4 @@ At work, I have to spend a lot of times in meetings, listen to people, analyze i
 [22]: https://overcast.fm
 [23]: https://www.apple.com/music/
 [24]: https://www.adobe.com/products/photoshop-lightroom.html
-
 [25]: {{< ref "workspace-2021" >}}

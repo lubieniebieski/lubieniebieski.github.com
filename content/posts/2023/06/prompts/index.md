@@ -25,7 +25,7 @@ I primarily use ChatGPT+ because it offers the feature of "tabs". This allows me
 
 In instances where I need to perform one-off tasks, I use the API form. I haven't yet created any large scripts or automations, but it's something I plan to explore in the future.
 
-On my Mac, I use [MacGPT][1] to access [ChatGPT+](https://chat.openai.com/), as it's the most convenient way for me. When I'm mobile, I turn to ChatGPT+ on my phone.
+On my Mac, I use [MacGPT][1] to access [ChatGPT+][2], as it's the most convenient way for me. When I'm mobile, I turn to ChatGPT+ on my phone.
 
 ### Simple English corrections
 

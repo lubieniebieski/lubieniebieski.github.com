@@ -18,6 +18,5 @@ My uses page is just a click away in the main menu or you can just go straight t
 Feel free to reach out to me if you find something interesting — I'm always open to discovering new ideas and tools!
 
 [1]: https://uses.tech/
-
 [2]: {{< ref "workspace-2021" >}}
 [3]: {{< ref "uses" >}}

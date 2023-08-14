@@ -88,5 +88,4 @@ It's fast, it's NICE:) And you read this post — which I consider the biggest a
 [13]: https://elekk.xyz/@noelle
 [14]: https://tapbots.com/ivory/
 [15]: https://gohugo.io/
-
 [16]: {{< ref "hello-hugo" >}}

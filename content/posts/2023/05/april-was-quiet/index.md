@@ -47,5 +47,4 @@ Based on the number of posts, April was a quiet month. But honestly, I don't bel
 April, **thank you! 💙**
 
 [1]: https://social.lol/@lubieniebieski/110201934147507402
-
 [2]: {{< relref "cyk/008" >}}

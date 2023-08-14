@@ -40,7 +40,6 @@ March, **thank you! 💙**
 [1]: https://www.netguru.com/disruption/events/berlin-forum
 [2]: https://logseq.com/
 [3]: https://www.craft.do/
-
 [4]: {{< ref "linklog" >}}
 [5]: https://readwise.io/
 [6]: https://chat.openai.com/

@@ -30,5 +30,4 @@ We're on our way to address this: we've introduced investment time for our team.
 
 [1]: https://www.linkedin.com/feed/update/urn:li:activity:6427820761850867712
 [2]: https://www.goodreads.com/book/show/17255186-the-phoenix-project "The Phoenix Project"
-
 [3]: {{< relref "2018-07-23-devops-is-not-servers" >}}

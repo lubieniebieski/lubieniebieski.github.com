@@ -50,6 +50,7 @@ Welcome to Bullets #4! You can read the previous one here: [bullets/3][1].
 - 📸 I'm quite happy with the [drone photos][9] I've made recently!
 - 💬 I found an article about blog comments and using Activity Pub for that [Toot toot! Mastodon-powered Blog Comments ⋅ Cassidy James Blaede][10] -- it looks like something I have on my site right now, but without all of the [Webmentions][11] stuff. I'll have to look into it.
 
+[1]: {{< ref "/bullets/003" >}}
 [2]: https://bobiko.blog/2023/07/co-zwrocilo-moja-uwage-w-czerwcu-2023/
 [3]: https://www.facebook.com/serwisrowerowyczempin/
 [4]: https://www.goodreads.com/book/show/50343488-sooner-safer-happier
@@ -57,14 +58,12 @@ Welcome to Bullets #4! You can read the previous one here: [bullets/3][1].
 [6]: https://letterboxd.com/
 [7]: https://social.lol/@esamecar/110665754437786834
 [8]: https://www.typingmind.com/
+[9]: {{< ref "/cyk/010" >}}
+[10]: https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/
+[11]: {{< ref "posts/2023/02/playing-with-webmentions" >}}
 [12]: https://www.imdb.com/title/tt8936646/
 [13]: https://www.imdb.com/title/tt12263384/
-[10]: https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/
 
 [^1]: General Classification, the main ranking in the Tour de France. The rider with the lowest time wins the race.
 [^2]: To be honest, QUITE A LOT!!!
 [^3]: These days, most of the time we see each other on video calls, so it was nice to see people who are more than just a head and shoulders.
-
-[1]: {{< ref "/bullets/003" >}}
-[9]: {{< ref "/cyk/010" >}}
-[11]: {{< ref "posts/2023/02/playing-with-webmentions" >}}

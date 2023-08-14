@@ -31,7 +31,6 @@ _Assumptions: you have a Fly.io account and you have a project deployed. You als
 That's it! You can use the same command to download files from your server. Just change the order of the arguments.
 
 [1]: https://github.com/lubieniebieski/lubieniebieski-api
-
 [2]: {{< ref "linklog" >}}
 [3]: {{< ref "posts/2023/03/linklog" >}}
 [4]: https://fly.io
