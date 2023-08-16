@@ -58,10 +58,16 @@ title = "lubieniebieski by adam nowak"
         weight = 5
 
       [[languages.en.menu.main]]
+        identifier = "blogroll"
+        name = "blogroll 🆕"
+        url = "/blogroll"
+        weight = 6
+
+      [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
         url = "/feed.xml"
-        weight = 6
+        weight = 7
 
 [outputFormats]
   [outputFormats.RSS]

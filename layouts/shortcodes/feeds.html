@@ -1,0 +1,20 @@
+{{ $feedsLocation := .Get "location" }}
+{{ $feeds := getJSON $feedsLocation }}
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>URL</th>
+      <th>Feed</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range shuffle $feeds }}
+    <tr>
+      <td>{{ .title }}</td>
+      <td> <a href="{{ .siteUrl }}">{{ .siteUrl }}</a></td>
+      <td> <a href="{{ .url}}">RSS</a> </td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
