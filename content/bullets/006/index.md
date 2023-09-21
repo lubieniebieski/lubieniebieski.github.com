@@ -49,11 +49,16 @@ Welcome to Bullets #6! You can read the previous one here: [bullets/5][1].
 
 ## Links I saved for sharing with you
 
-- [How to Stop Caring About What People Think][2] and [3 Steps to Stop Negative Thinking][3] -- two articles from Mark Manson that I've read recently and I think they are worth sharing. I think a lot about increasing positivity in my life and these two articles are a good starting point.
-- [The Weirdest and Most Chaotic Soccer Match Ever][4] -- In the 1994 Caribbean Cup qualifying group stage match between Barbados and Grenada, the 90 minutes of normal time ended with an intentional own goal by Barbados and then with Grenada trying to score either a goal or an own goal and Barbados defending both nets. Say what?! How did this happen?
-- [Backyard Office & Studio Sheds - Download Small House Plans - Den][5] -- after seeing the renders, I want to have one in my backyard! Looks outstanding!
+- Two articles from Mark Manson that I've read recently and I think they are worth sharing. I think a lot about increasing positivity in my life and these two articles are a good starting point.
+  - [How to Stop Caring About What People Think][2]
+  - [3 Steps to Stop Negative Thinking][3]
+- *In the 1994 Caribbean Cup qualifying group stage match between Barbados and Grenada, the 90 minutes of normal time ended with an intentional own goal by Barbados and then with Grenada trying to score either a goal or an own goal and Barbados defending both nets. Say what?! How did this happen?*
+  - [The Weirdest and Most Chaotic Soccer Match Ever][4]
+- After seeing the renders, I want to have one in my backyard! Looks outstanding!
+  - [Backyard Office & Studio Sheds - Download Small House Plans - Den][5]
 {{< image src="https://denoutdoors.com/cdn/shop/products/007_STUDIO_v03.jpg?v=1651856761">}}
-- [Paperless-ngx][6] -- This got my attention by accident, but looks very cool if you want to scan your documents and organize them in a nice way thanks to OCR capabilities of the software, all for free!
+- This got my attention by accident, but looks very cool if you want to scan your documents and organize them in a nice way thanks to OCR capabilities of the software, all for free!
+  - [Paperless-ngx][6]
 
 ## Other
 
