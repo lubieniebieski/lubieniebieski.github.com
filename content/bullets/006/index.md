@@ -49,19 +49,28 @@ Welcome to Bullets #6! You can read the previous one here: [bullets/5][1].
 
 ## Links I saved for sharing with you
 
-- [How to Stop Caring About What People Think](https://markmanson.net/how-to-stop-caring-about-what-people-think) and [3 Steps to Stop Negative Thinking](https://markmanson.net/3-steps-to-stop-negative-thinking) -- two articles from Mark Manson that I've read recently and I think they are worth sharing. I think a lot about increasing positivity in my life and these two articles are a good starting point.
-- [The Weirdest and Most Chaotic Soccer Match Ever](https://kottke.org/23/08/the-weirdest-and-most-chaotic-soccer-match-ever) -- In the 1994 Caribbean Cup qualifying group stage match between Barbados and Grenada, the 90 minutes of normal time ended with an intentional own goal by Barbados and then with Grenada trying to score either a goal or an own goal and Barbados defending both nets. Say what?! How did this happen?
-- [Backyard Office & Studio Sheds - Download Small House Plans - Den](https://denoutdoors.com/collections/backyard-office-studio-shed) -- after seeing the renders, I want to have one in my backyard! Looks outstanding!
+- [How to Stop Caring About What People Think][2] and [3 Steps to Stop Negative Thinking][3] -- two articles from Mark Manson that I've read recently and I think they are worth sharing. I think a lot about increasing positivity in my life and these two articles are a good starting point.
+- [The Weirdest and Most Chaotic Soccer Match Ever][4] -- In the 1994 Caribbean Cup qualifying group stage match between Barbados and Grenada, the 90 minutes of normal time ended with an intentional own goal by Barbados and then with Grenada trying to score either a goal or an own goal and Barbados defending both nets. Say what?! How did this happen?
+- [Backyard Office & Studio Sheds - Download Small House Plans - Den][5] -- after seeing the renders, I want to have one in my backyard! Looks outstanding!
 {{< image src="https://denoutdoors.com/cdn/shop/products/007_STUDIO_v03.jpg?v=1651856761">}}
-- [Paperless-ngx](https://docs.paperless-ngx.com/) -- This got my attention by accident, but looks very cool if you want to scan your documents and organize them in a nice way thanks to OCR capabilities of the software, all for free!
+- [Paperless-ngx][6] -- This got my attention by accident, but looks very cool if you want to scan your documents and organize them in a nice way thanks to OCR capabilities of the software, all for free!
 
 ## Other
 
 - The days are shorter, and the few minutes when the sun is shining during the day are precious. These days, I keep my camera next to me because there's only a narrow window of opportunity to capture a nice, warm photo! I particularly enjoy taking photographs of our day-to-day life, such as preparing dinner or playing with kids. Give it a try!
 {{< image src="202309_X1008788-lubieniebieskipl.jpg" >}}
 {{< image src="202309_X1008805-lubieniebieskipl.jpg" >}}
-- I still love reading other peoples' blogs! Apart from stories and thing people share, I put a lot of attention in how their pages work. [Michael](https://mihobu.lol/) automated a lot and I'm impressed! Especially by the [/blogroll](https://mihobu.lol/blogroll) and [/now](https://mihobu.lol/now) pages. A lot to learn from!
+- I still love reading other peoples' blogs! Apart from stories and thing people share, I put a lot of attention in how their pages work. [Michael][7] automated a lot and I'm impressed! Especially by the [/blogroll][8] and [/now][9] pages. A lot to learn from!
 
 [1]: {{< ref "/bullets/005" >}}
+[2]: https://markmanson.net/how-to-stop-caring-about-what-people-think
+[3]: https://markmanson.net/3-steps-to-stop-negative-thinking
+[4]: https://kottke.org/23/08/the-weirdest-and-most-chaotic-soccer-match-ever
+[5]: https://denoutdoors.com/collections/backyard-office-studio-shed
+[6]: https://docs.paperless-ngx.com/
+[7]: https://mihobu.lol/
+[8]: https://mihobu.lol/blogroll
+[9]: https://mihobu.lol/now
+
 [^1]: War. War never changes.
 [^2]: I'm not the expert here, but TLDR: I want the same layout as on my Macbook, with a `~` next to my `Right Shift` key.

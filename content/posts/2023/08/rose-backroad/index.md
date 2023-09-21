@@ -99,12 +99,13 @@ Here are some pictures of the environment that the Backroad is used in
 
 ## Summary
 
-I'm super happy with the bike! 💙 Currently, I'm the weakest element of the system and I'm working on it. I'm looking forward to the next adventures with the Backroad! Exploring [Squadrats](https://squadrats.com/) definitely helps with that!
+I'm super happy with the bike! 💙 Currently, I'm the weakest element of the system and I'm working on it. I'm looking forward to the next adventures with the Backroad! Exploring [Squadrats][3] definitely helps with that!
 
 If you have any questions about the bike, feel free to ask me on Mastodon ✋!
 
 [1]: https://www.rosebikes.pl/rose-backroad-force-etap-axs-xplr-1x12-2696917?product_shape=*blue+haze
 [2]: https://www.instagram.com/weronika.szalas/
+[3]: https://squadrats.com/
 
 [^1]: Of course, you have to get up to that speed first 😅
 [^2]: But hey, I can!
