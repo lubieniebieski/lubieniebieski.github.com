@@ -1,0 +1,59 @@
+baseURL: "https://lubieniebieski.pl"
+languageCode: en-us
+theme: terminal
+enableGitInfo: true
+title: lubieniebieski by adam nowak
+params:
+  centerTheme: true
+  themeColor: blue
+  favicon: favicon.ico
+  ogimage: favicon-512.png
+  appleTouchIcon: apple-touch-icon.png
+  subtitle: "made with \U0001F499"
+  showLastUpdated: true
+  logo:
+    logoText: lubieniebieski // adam nowak
+    logoHomeLink: /
+languages:
+  en:
+    languageName: English
+    params:
+      readMore: Read more
+      menuMore: Show more
+      readOtherPosts: Read other posts
+    menu:
+      main:
+        - identifier: categories
+          name: categories
+          url: /categories
+          weight: 1
+        - identifier: cyks
+          name: cyk
+          url: /categories/cyk
+          weight: 2
+        - identifier: linklog
+          name: linklog
+          url: /linklog
+          weight: 3
+        - identifier: uses
+          name: uses
+          url: /uses
+          weight: 4
+        - identifier: about
+          name: about
+          url: /about
+          weight: 5
+        - identifier: blogroll
+          name: blogroll
+          url: /blogroll
+          weight: 6
+        - identifier: rss
+          name: RSS
+          url: /feed.xml
+          weight: 7
+outputFormats:
+  RSS:
+    baseName: feed
+caches:
+  getjson:
+    maxAge: 3600
