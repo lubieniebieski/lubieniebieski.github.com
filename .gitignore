@@ -2,6 +2,8 @@
 /public/
 /resources/_gen/
 /assets/jsconfig.json
+/_site/
+/_posts/
 hugo_stats.json
 
 # Executable may be added to repository
