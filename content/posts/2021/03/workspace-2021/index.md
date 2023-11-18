@@ -3,9 +3,9 @@ title: My workspace 2021
 author: adam nowak
 date: 2021-03-10T21:49:14+00:00
 description: Another year, another post about the place where I spend the most of time! A few different shots, new items, including the standing option and new audio.
-url: workspace-2021
+url: workspace
 aliases:
-  - workspace
+  - workspace-2021
 cover: 202102_X1004560-lubieniebieskipl-1.jpg
 categories:
   - hardware
