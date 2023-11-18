@@ -3,7 +3,8 @@ title: "Uses"
 date: 2023-02-20T21:32:34+01:00
 ---
 
-> If you're interested about some hardware-related paragraphs, look [here][25]
+> * If you're interested about some **hardware**-related paragraphs, look here at [/workspace][25]
+> * If you're interested in **app defaults**, look here at [/defaults][26]
 
 ## Software
 
@@ -71,3 +72,4 @@ At work, I have to spend a lot of times in meetings, listen to people, analyze i
 [23]: https://www.apple.com/music/
 [24]: https://www.adobe.com/products/photoshop-lightroom.html
 [25]: {{< ref "workspace-2021" >}}
+[26]: {{< relref "app-defaults.md" >}}
