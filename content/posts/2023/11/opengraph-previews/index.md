@@ -36,7 +36,7 @@ So, what was I aiming for? A unique, automated, blog-fitting preview image for e
 
 After a quick online search, I found a [Hugo forum thread discussing the same issue](https://discourse.gohugo.io/t/postprocess-custom-output-formats/40404/2). That thread led me to [an example](https://github.com/gohugoio/gohugoioTheme/blob/master/layouts/partials/opengraph/get-featured-image.html) given in Hugo's documentation, which I could modify slightly for my needs.
 
-The first step was to create a background that the text filter modifies. I used [https://og-playground.vercel.app/](), saved a png, and placed it in the assets folder along with the [FireCode](https://github.com/tonsky/FiraCode) font I use on my blog.
+The first step was to create a background that the text filter modifies. I used <https://og-playground.vercel.app/>, saved a png, and placed it in the assets folder along with the [FireCode](https://github.com/tonsky/FiraCode) font I use on my blog.
 
 {{< image src="background-og.png" >}}
 
