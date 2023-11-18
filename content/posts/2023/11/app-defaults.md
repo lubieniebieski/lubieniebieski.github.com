@@ -15,7 +15,7 @@ tags:
 
 ---
 
-I'm captivated by small online trends, like the recent wave of sharing app default settings.
+I'm captivated by small online trends, like the recent wave of sharing the default apps people use everyday.
 
 It started with Hemispheric Views' entertaining "[Duel of the Defaults!][1]" podcast episode and was further popularized by [Robb Knight's][2] excellent initiative to collect app defaults on his website <https://defaults.rknight.me/>. It's the software world's version of sharing desk setups[^1], and I can't get enough of it!
 
