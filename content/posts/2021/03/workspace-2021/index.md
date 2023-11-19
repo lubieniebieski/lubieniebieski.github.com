@@ -153,7 +153,7 @@ I've added a few lighting sources around the room. The most important one is the
 
 ---
 
-That's it! If you have any questions --- reach out to me on Twitter [@lubieniebieski][20]!
+That's it! If you have any questions --- reach out to me on Mastodon [@lubieniebieski@social.lol][20]!
 
 [1]: {{< relref "workspace-2020" >}}
 [2]: https://www.cnet.com/reviews/apple-MacBook-pro-16-inch-2019-review/
@@ -174,6 +174,6 @@ That's it! If you have any questions --- reach out to me on Twitter [@lubieniebi
 [17]: http://www.logilink.org/Products_LogiLink/Input_Devices_Multimedia/Keyboards-Keypads/Wireless_Keypad_ID0173.htm
 [18]: https://www.ikea.com/us/en/p/alex-drawer-unit-white-10192824/
 [19]: https://www.cyfrowe.pl/kamery/lampa-led-yongnuo-yn-300-air-3200-5500k.html
-[20]: https://twitter.com/lubieniebieski
+[20]: https://social.lol/@lubieniebieski
 [21]: https://www.flexispot.com/height-adjustable-standing-desk-converters-m8mb
 [22]: https://dbrand.com/shop/special-edition/robot-camo

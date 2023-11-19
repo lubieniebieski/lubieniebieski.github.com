@@ -94,7 +94,7 @@ The desk is a custom-built one. Two pieces of Swiss Krono Worktop --- the front 
 
 ---
 
-That's it! If you have any questions --- reach out to me on Twitter [@lubieniebieski][11]!
+That's it! If you have any questions --- reach out to me on Mastodon [@lubieniebieski@social.lol][11]!
 
 [1]: https://www.cnet.com/reviews/apple-macbook-pro-13-inch-2016-review/
 [2]: https://www.raindesigninc.com/mstand.html
@@ -106,4 +106,4 @@ That's it! If you have any questions --- reach out to me on Twitter [@lubieniebi
 [8]: https://www.bluedesigns.com/products/snowball/
 [9]: http://www.rode.com/accessories/psa1
 [10]: https://www.ikea.com/us/en/p/alex-drawer-unit-white-10192824/
-[11]: https://twitter.com/lubieniebieski
+[11]: https://social.lol/@lubieniebieski
