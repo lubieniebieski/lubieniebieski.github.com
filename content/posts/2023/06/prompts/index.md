@@ -14,8 +14,9 @@ tags:
 ---
 
 As I'm integrating AI tools more into my daily workflow, let's take a look at the ones I use most frequently. We'll focus primarily on ChatGPT and MidJourney, as I find these provide me the most value and utility.
-
-{{<panel text="I'll be updating this post with new and revised examples.">}}
+{{< panel >}}
+I'll be updating this post with new and revised examples.
+{{< /panel >}}
 
 Thanks Anna for giving me the final push to publish this post! 🙏
 
