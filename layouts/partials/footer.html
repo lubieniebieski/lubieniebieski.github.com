@@ -1,14 +1,34 @@
 <footer class="footer">
   <div class="footer__inner">
-    {{ if $.Site.Copyright }}
-      <div class="copyright copyright--user">
-        <span>{{ $.Site.Copyright | safeHTML }}</span>
-    {{ else }}
-      <div class="copyright">
-        <span>© {{ now.Year }} Powered by <a href="https://gohugo.io">Hugo</a></span>
-    {{ end }}
-      <span>:: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
-      </div>
+    <div class="copyright">
+      <ul>
+        <li><a href="/now">Now</a></li>
+        <li><a href="/archives">Archives</a></li>
+        <li>
+          <a rel="me" href="https://social.lol/@lubieniebieski">Mastodon</a>
+        </li>
+        <li>
+          <a
+            href="/feed.xml"
+            title="{{ $.Site.Title }}"
+            type="application/rss+xml">
+            RSS
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="copyright">
+    <span> Created with 💙 by adam nowak </span>
+  </div>
+  <div class="copyright">
+    <span
+      >Original
+      <a href="https://github.com/panr/hugo-theme-terminal" target="_blank"
+        >theme</a
+      >
+      made by <a href="https://github.com/panr" target="_blank">panr</a></span
+    >
   </div>
 </footer>
 
@@ -16,6 +36,7 @@
 {{ $prism := resources.Get "js/prism.js" | js.Build }}
 
 {{ $bundle := slice $menu $prism | resources.Concat "bundle.js" | resources.Minify }}
+
 
 <script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
 

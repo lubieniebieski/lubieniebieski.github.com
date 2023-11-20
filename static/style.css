@@ -38,3 +38,12 @@ blockquote {
 .post li + li {
   margin-top: 10px;
 }
+
+.footer .copyright ul {
+  list-style: none;
+  display: flex;
+}
+
+.footer .copyright li {
+  margin-right: 20px;
+}

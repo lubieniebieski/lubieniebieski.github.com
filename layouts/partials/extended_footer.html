@@ -1,20 +1,5 @@
-<div class="footer">
-  <div class="copyright">
-    mastodon:
-    <a rel="me" href="https://social.lol/@lubieniebieski"
-      >lubieniebieski@social.lol</a
-    >
-  </div>
-  <div class="copyright">
-    RSS:
-    <a href="/feed.xml" title="{{ $.Site.Title }}" type="application/rss+xml">
-      <img src="/rss.png" style="height: 16px; margin-bottom: 2px" />
-    </a>
-  </div>
-</div>
 <script
   src="https://tinylytics.app/embed/8oa3sNjAY7QiyueJgjV7.js"
-  defer
-></script>
+  defer></script>
 {{ $webmentionJs := resources.Get "js/webmention.js" | minify }}
 <script src="{{ $webmentionJs.RelPermalink }}" async></script>
