@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    </h1>
+    <div class="post-content">
+      {{ .Content }}
+      {{ $pages := where site.RegularPages "Type" "in" (slice "posts" "cyk" "links" "bullets") }}
+      {{ range $pages.GroupByPublishDate "2006, January" }}
+        <h2 id="{{ .Key | urlize }}">{{ .Key }}</h2>
+        <small>{{ len .Pages }} posts published</small>
+        <ul>
+          {{ range sort .Pages "PublishDate" "desc" }}
+            <li>
+              <time
+                datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}"></time>
+              {{ .PublishDate.Format "2006-01-02" }}:
+              <a href="{{ .Permalink }}">{{ .Title }} </a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}
