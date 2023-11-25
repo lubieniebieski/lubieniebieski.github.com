@@ -3,7 +3,7 @@
 <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 <meta name="keywords" content="{{ with .Params.Keywords }}{{ delimit . ", " }}{{ else }}{{ $.Site.Params.Keywords }}{{ end }}" />
 
-{{ if or (.Params.noindex) (not (eq .Data.Singular "")) }}
+{{ if or (.Params.noindex) (not (eq .Data.Singular nil)) }}
   <meta name="robots" content="noindex" />
 {{ else }}
   <meta name="robots" content="noodp" />
