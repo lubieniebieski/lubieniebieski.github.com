@@ -9,11 +9,18 @@ params:
   favicon: favicon.ico
   ogimage: favicon-512.png
   appleTouchIcon: apple-touch-icon.png
-  subtitle: "made with \U0001F499"
+  subtitle: "Personal blog written by Adam Nowak aka lubieniebieski. Made with \U0001F499"
   showLastUpdated: true
+  keywords: "lubieniebieski, adam nowak, personal blog, tech, leadership"
   logo:
     logoText: lubieniebieski // adam nowak
     logoHomeLink: /
+  excludedFromSitemap:
+    - /categories/
+    - /tags/
+    - /linklog/
+    - /blogroll/
+
 languages:
   en:
     languageName: English
