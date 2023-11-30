@@ -18,7 +18,7 @@ tags:
 ---
 
 {{< panel >}}
-Updates from the previous edition are marked with 🆕 and include: the heart of the battlestation, keyboard abd a Loupedeck interface. If you're interested in the previous setup, please take a look at [My workspace 2021]({{< relref "workspace-2021" >}}).
+Updates from the previous edition are marked with 🆕 and include: the heart of the battlestation, keyboard abd a Loupedeck interface. If you're interested in the previous setup, please take a look at [My workspace 2021][1].
 {{< /panel >}}
 
 ## Core setup
@@ -118,7 +118,7 @@ When I want to change my position from sitting to standing, I use a standing des
 
 {{< image src="202311_X1009251-lubieniebieskipl.jpg" >}}
 
-Behind the computer, I have a few shelves. I use them to host some of my LEGO cars --- currently it's a [Porsche 911 RSR](https://www.lego.com/product/porsche-911-rsr-42096), a [Porsche 911 Turbo/Targa](https://www.lego.com/product/porsche-911-10295), and an [Aston Martin DB5](https://www.lego.com/product/007-aston-martin-db5-76911).
+Behind the computer, I have a few shelves. I use them to host some of my LEGO cars --- currently it's a [Porsche 911 RSR][6], a [Porsche 911 Turbo/Targa][9], and an [Aston Martin DB5][12].
 
 Unfortunately, the plants don't survive in my office for too long, so after many casualties, I decided to go for a cactus 🌵. It's a nice addition to the shelves and it's easy to take care of.
 
@@ -130,14 +130,18 @@ I've added a few lighting sources around the room. The most important one is the
 
 That's it! If you have any questions --- reach out to me on Mastodon [@lubieniebieski@social.lol][20]!
 
+[1]: {{< relref "workspace-2021" >}}
 [2]: https://www.cnet.com/tech/computing/apple-mac-studio-2023-review-still-the-creative-choice-for-mac/
 [3]: https://www.keychron.com/products/keychron-k14-wireless-mechanical-keyboard
 [4]: https://www.amazon.com/dp/B01CDYB0QS
 [5]: https://www.keychron.com/products/keychron-q1-pro-qmk-custom-mechanical-keyboard-iso-layout-collection?variant=40441724469337
+[6]: https://www.lego.com/product/porsche-911-rsr-42096
 [7]: https://loupedeck.com/products/loupedeck-live/
 [8]: https://www.logitech.com/en-us/products/mice/mx-master-3-mac-wireless-mouse.html
+[9]: https://www.lego.com/product/porsche-911-10295
 [10]: https://europe.beyerdynamic.com/dt-990-pro.html
 [11]: https://www.audio-technica.com/en-gb/atr2100x-usb
+[12]: https://www.lego.com/product/007-aston-martin-db5-76911
 [14]: http://www.rode.com/accessories/psa1
 [15]: https://evo.audio/products/evo-4/overview/
 [16]: https://www.logitech.com/pl-pl/product/c922-pro-stream-webcam
