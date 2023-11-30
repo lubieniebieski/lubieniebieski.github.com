@@ -42,6 +42,7 @@ BTW, do you have any preference regarding the contents of the RSS feed? I'm thin
 * Discover every post with the new [Archives][6] page.
 * "Now" page fans[^1], find a direct link in the footer [/now][7]
 * I've fixed [/linklog][8] page, which was broken due to the fact that I've changed the way I'm using tags (migration from Pocket to Readwise Reader), plus [IFTTT][9] decreased the number of free applets, so I had to change the way I'm using it[^2]
+  * BTW, you should definitely check how [Jose done it on his blog](https://www.josemunozmatos.com/bookmarks) -- automated, clean, and insightful!
 * If you're a Google crawler, you can find the right stuff in `sitemap.xml` you should be able to spend your budget better now! No need to thank me!
 
 ## I feel free
@@ -76,6 +77,6 @@ BTW, do you have any preference regarding the contents of the RSS feed? I'm thin
 [12]: https://music.apple.com/gb/album/ministry-of-sound-the-annual-2021-mixed-by-pete-tong-dj-mix/1538816064
 [13]: https://poczwardowski.substack.com/
 
-[^1]: Hello Michał from [Poczwardowski Notes](https://poczwardowski.substack.com/)! ;)
-[^2]: disclaimer, I'm not using it anymore:D
-[^3]: bought 3 more voltage testers and I'm using them all the time now!
+[^1]: Hello Michał from [Poczwardowski Notes](https://poczwardowski.substack.com/)! 👋
+[^2]: Disclaimer: I'm not using it anymore:D
+[^3]: Bought 3 more voltage testers and I'm using them all the time now!
