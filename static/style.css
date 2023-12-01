@@ -47,3 +47,13 @@ blockquote {
 .footer .copyright li {
   margin-right: 20px;
 }
+
+button.tinylytics_kudos {
+  margin-left: auto;
+  margin-right: auto;
+  background: none;
+  color: #0092ca;
+  &.did_select {
+    border-style: dashed;
+  }
+}
