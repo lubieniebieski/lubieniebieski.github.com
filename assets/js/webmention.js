@@ -188,10 +188,12 @@ A more detailed example:
    * @returns {string}
    */
   function entities(text) {
-    return text.replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;");
+    return text.replace(/[&<>"]/g, (tag) => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+    }[tag] || tag));
   }
 
   /**
@@ -236,7 +238,7 @@ A more detailed example:
       rsvp = `<sub>${rsvpEmoji[r.rsvp]}</sub>`;
     }
 
-    return `
+    return`
       <a
         class="reaction"
         rel="nofollow ugc"
@@ -272,7 +274,7 @@ A more detailed example:
     /** @type {Record<string, boolean>} */
     const seen = {};
 
-    mentions.forEach(function (r) {
+    mentions.forEach(function(r) {
       // Strip off the protocol (i.e. treat http and https the same)
       const source = stripurl(r.url);
       if (!seen[source]) {
@@ -294,7 +296,7 @@ A more detailed example:
     let text = entities(c.content.text);
 
     if (textMaxWords) {
-      let words = text.replace(/\s+/g, ' ').split(' ', textMaxWords + 1);
+      let words = text.replace(/\s+/g,' ').split(' ', textMaxWords + 1);
       if (words.length > textMaxWords) {
         words[textMaxWords - 1] += '&hellip;';
         words = words.slice(0, textMaxWords);
@@ -327,7 +329,7 @@ A more detailed example:
         let linktext = `(${t("mention")})`;
         if (c.name) {
           linkclass = "name";
-          linktext = c.name;
+          linktext = entities(c.name);
         } else if (c.content && c.content.text) {
           linkclass = "text";
           linktext = extractComment(c);
@@ -337,7 +339,7 @@ A more detailed example:
 
         return `<li>${image} ${link} ${type}</li>`;
       })
-      .join('');
+    .join('');
     return `
       ${headline}
       <ul class="comments">${markup}</ul>
@@ -413,7 +415,7 @@ A more detailed example:
         console.error("Could not parse response");
         new Error(response.statusText);
       }
-    } catch (error) {
+    } catch(error) {
       // Purposefully not escalate further, i.e. no UI update
       console.error("Request failed", error);
     }
@@ -438,7 +440,7 @@ A more detailed example:
       "rsvp": comments
     };
 
-    json.children.forEach(function (child) {
+    json.children.forEach(function(child) {
       // Map each mention into its respective container
       const store = mapping[child['wm-property']];
       if (store) {
