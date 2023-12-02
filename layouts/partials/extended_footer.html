@@ -3,3 +3,6 @@
   defer></script>
 {{ $webmentionJs := resources.Get "js/webmention.js" | minify }}
 <script src="{{ $webmentionJs.RelPermalink }}" async></script>
+
+{{ $mastodonEnhancer := resources.Get "js/mastodon.js" | minify }}
+<script src="{{ $mastodonEnhancer.RelPermalink }}" async></script>
