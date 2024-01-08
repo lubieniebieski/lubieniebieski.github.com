@@ -10,11 +10,6 @@
     "siteUrl": "https://terrywhite.com/"
   },
   {
-    "title": "free time",
-    "url": "https://freetime.mikeconnelly.com/feed",
-    "siteUrl": "https://freetime.mikeconnelly.com/"
-  },
-  {
     "title": "Basic Apple Guy",
     "url": "https://www.basicappleguy.com/basicappleblog?format=rss",
     "siteUrl": "https://basicappleguy.com/"
@@ -25,19 +20,9 @@
     "siteUrl": "https://subscribe.konkel.co/"
   },
   {
-    "title": "Thomas Voland",
-    "url": "https://thomasvoland.com/blog/feed/",
-    "siteUrl": "https://thomasvoland.com/blog/"
-  },
-  {
     "title": "Rands in Repose",
     "url": "https://randsinrepose.com/feed/",
     "siteUrl": "https://randsinrepose.com"
-  },
-  {
-    "title": "Randall Degges",
-    "url": "https://www.rdegges.com/feed.xml",
-    "siteUrl": "https://www.rdegges.com"
   },
   {
     "title": "Evan Travers' Personal Blog",
@@ -95,19 +80,9 @@
     "siteUrl": "https://www.caseyliss.com/"
   },
   {
-    "title": "Building Rome(s)",
-    "url": "https://buildingromes.substack.com/feed",
-    "siteUrl": "https://buildingromes.substack.com"
-  },
-  {
     "title": "A blog from Cabel Sasser",
     "url": "https://cabel.com/feed/",
     "siteUrl": "https://cabel.com"
-  },
-  {
-    "title": "Maggie Appleton",
-    "url": "https://maggieappleton.com/rss.xml",
-    "siteUrl": "https://maggieappleton.com"
   },
   {
     "title": "Colin Devroe",
@@ -118,11 +93,6 @@
     "title": "localghost.dev",
     "url": "https://localghost.dev/feed.xml",
     "siteUrl": "https://localghost.dev"
-  },
-  {
-    "title": "Grifel",
-    "url": "https://grifel.dev/rss.xml",
-    "siteUrl": "https://grifel.dev"
   },
   {
     "title": "Hey, it's Jason!",
@@ -140,19 +110,9 @@
     "siteUrl": "https://lewisdale.dev/"
   },
   {
-    "title": "Arjanna Paulien van der Plas coaching",
-    "url": "https://www.arjanna.com/blog-feed.xml",
-    "siteUrl": "https://www.arjanna.com"
-  },
-  {
     "title": "because writing is clarifying",
     "url": "https://www.subbu.org/index.xml",
     "siteUrl": "https://www.subbu.org/"
-  },
-  {
-    "title": "Mark Manson",
-    "url": "https://markmanson.net/feed",
-    "siteUrl": "https://markmanson.net/"
   },
   {
     "title": "Software is Easy, People are Hard",
@@ -180,19 +140,9 @@
     "siteUrl": "https://bobiko.blog"
   },
   {
-    "title": "blog.thms.uk",
-    "url": "https://blog.thms.uk/rss.xml",
-    "siteUrl": "https://blog.thms.uk"
-  },
-  {
     "title": "Craig Mod — Writer + Photographer",
     "url": "http://craigmod.com/index.xml",
     "siteUrl": "http://craigmod.com"
-  },
-  {
-    "title": "Lost Art Press",
-    "url": "https://blog.lostartpress.com/feed/",
-    "siteUrl": "https://blog.lostartpress.com"
   },
   {
     "title": "computers are bad",
@@ -218,11 +168,6 @@
     "title": "Craig Maloney",
     "url": "https://decafbad.net/feed/index.xml",
     "siteUrl": "https://decafbad.net/"
-  },
-  {
-    "title": "Hazel Weakly",
-    "url": "https://hazelweakly.me/rss.xml",
-    "siteUrl": "https://hazelweakly.me"
   },
   {
     "title": "52Notatki",
