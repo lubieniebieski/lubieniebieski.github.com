@@ -30,7 +30,10 @@ I'm thrilled to share first post of 2024 and at the same time -- the 10th editio
 
 ## The Generalist's Dilemma
 
-* I never been an expert in anything, but I've managed to learn a lot of things in my life and I'm pretty good at a few of them.
+* I never considered myself an expert, but I've managed to learn a lot of things in my life and I'm pretty good at a few of them.
+
+EDIT: My friend -- Michał pointed out to me that I can attach a "specialist" badge to many things I'm doing and that I definitely consider myself an expert. After a while, I found this quote that resonates with me: "*A jack of all trades is a master of none, but oftentimes better than a master of one.*". And it's true for me, I might just have a different definition of "expert" than others, and that's fine!
+
 * Right now I'm torn between a few different topics:
   * Programming, ever the engineer
   * Parenting, with its unexpected lessons
