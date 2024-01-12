@@ -3,6 +3,7 @@ title: "How Logseq became my note-taking app"
 author: adam nowak
 date: "2024-01-12T09:23:46+01:00"
 url: logseq
+cover: "graph.png"
 description: From scattered notes to streamlined thoughts, find out why Logseq stands out in a sea of alternatives.
 categories:
   - personal
