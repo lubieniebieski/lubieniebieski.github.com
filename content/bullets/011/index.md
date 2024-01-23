@@ -42,7 +42,7 @@ As we kick off the new year, I'm pleasantly surprised by the positive energy and
 
 ## I'm listening
 
-* When Bobiko recommends some [old-school dance/house/party (MANIECZKI!) music](https://pol.social/@bobiko/111764394895541842), I immerse myself in it and listen for several days. It's a wonderful sensation to revisit the 00s for a little while!
+* When Bobiko recommends some [old-school dance/house/party (MANIECZKI!) music][2], I immerse myself in it and listen for several days. It's a wonderful sensation to revisit the 00s for a little while!
 
 ## Woodworking Woes and Wins
 
@@ -61,14 +61,18 @@ As we kick off the new year, I'm pleasantly surprised by the positive energy and
 
 ## Other
 
-* I've started using [Timery](https://timeryapp.com/) to track my time spent on different activities. I'll share the results in the next bullets. It looks promising so far!
-* Sophie wrote a post about the way she [shares her recommended links](https://localghost.dev/blog/automated-weekly-links-posts-with-raindrop-io-and-eleventy/) on her blog. It's a great idea increasing the value of the shared content (we as people love recommendations from other people we know[^2])! It could be a great way to start blogging for those who are struggling to find topics to write about[^3]. Human curation FTW!
+* I've started using [Timery][3] to track my time spent on different activities. I'll share the results in the next bullets. It looks promising so far!
+* Sophie wrote a post about the way she [shares her recommended links][4] on her blog. It's a great idea increasing the value of the shared content (we as people love recommendations from other people we know[^2])! It could be a great way to start blogging for those who are struggling to find topics to write about[^3]. Human curation FTW!
 
 All in all, I'm happy with the current state of things. I've been feeling more positive in recent weeks. It could be due to increased activity or simply because the kids are back in school and I have more time for myself.
 
 **Take some good vibes from this post and have a great week!**
 
 [1]: {{< ref "/bullets/010" >}}
+[2]: https://pol.social/@bobiko/111764394895541842
+[3]: https://timeryapp.com/
+[4]: https://localghost.dev/blog/automated-weekly-links-posts-with-raindrop-io-and-eleventy/
+
 [^1]: I don't like running at all, especially indoors! However, when you watch a tv show or a youtube video, it's not that bad!
 [^2]: Or follow on the interwebs.
 [^3]: Initially I thought that my "bullets" will be 90% links and the rest will be my blabbering, it turned out to be the opposite. Fear not, I'll try to share more links in the future!
