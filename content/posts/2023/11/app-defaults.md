@@ -17,7 +17,7 @@ tags:
 
 I'm captivated by small online trends, like the recent wave of sharing the default apps people use every day.
 
-It started with Hemispheric Views' entertaining "[Duel of the Defaults!][1]" podcast episode and was further popularized by [Robb Knight's][2] excellent initiative to collect app defaults on his website <https://defaults.rknight.me/>. It's the software world's version of sharing desk setups[^1], and I can't get enough of it!
+It started with Hemispheric Views' entertaining "[Duel of the Defaults!][1]" podcast episode and was further popularized by [Robb Knight's][2] excellent initiative to collect app defaults on his website <https://defaults.rknight.me/>. It's the software world's version of sharing desk setups, and I can't get enough of it!
 
 It's nothing big, but you might discover some new apps or workflows that you haven't heard of before. I know I did when I was reading through other people's app defaults.
 
@@ -63,5 +63,3 @@ If that's not enough, you can check out my [/uses][11] page for more details abo
 [9]: https://overcast.fm/
 [10]: {{< ref "/workspace" >}}
 [11]: {{< ref "/uses" >}}
-
-[^1]: like [mine]({{< ref "/workspace" >}})
