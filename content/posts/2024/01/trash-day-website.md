@@ -40,7 +40,7 @@ Speaking tech, I took a straightforward approach:
 
 ## What’s Next
 
-Future enhancements? Perhaps an `.ics` link for easy calendar event importing, maybe it could be a [PWA](https://en.wikipedia.org/wiki/Progressive_web_app) with notifications... However, right now I'm happy with the simplicity of the site and the fact that it's already helping my neighbors (or at least myself). I know similar services exist, but you have to download an app for that, they aren't pretty or they don't work in my area.
+Future enhancements? Perhaps an `.ics` link for easy calendar event importing, maybe it could be a [PWA][6] with notifications... However, right now I'm happy with the simplicity of the site and the fact that it's already helping my neighbors (or at least myself). I know similar services exist, but you have to download an app for that, they aren't pretty or they don't work in my area.
 
 ## Joy
 
@@ -51,5 +51,6 @@ This venture was a reminder that coding can not only be cool but also  practical
 [3]: https://wheniskeynote.com
 [4]: https://fly.io
 [5]: https://github.com/lubieniebieski/kiedysmieci
+[6]: https://en.wikipedia.org/wiki/Progressive_web_app
 
 [^1]: Polish for `trash`.
