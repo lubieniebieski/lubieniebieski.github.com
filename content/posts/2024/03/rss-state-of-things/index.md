@@ -14,11 +14,11 @@ tags:
   - Omnivore
 ---
 
-A few days ago, I made the switch from [Readwise Reader](https://read.readwise.io/) and shared a [brief update](https://social.lol/@lubieniebieski/112042085438667602) on Mastodon. It's time for me to dive deeper into my year-long experience with this tool, the reasons behind my departure, and the new approach to RSS that better suits my evolving needs.
+A few days ago, I made the switch from [Readwise Reader][1] and shared a [brief update][2] on Mastodon. It's time for me to dive deeper into my year-long experience with this tool, the reasons behind my departure, and the new approach to RSS that better suits my evolving needs.
 
 ## Context
 
-[Reeder](https://reederapp.com/) was my companion for RSS feeds; its integration with my Apple devices provided a seamless user experience. Everything went well until I started writing more on my blog. I wanted to have API access and connect it with my site, especially the [linklog]({{% relref "linklog" %}}). I was reading quite a lot of links and wanted to tag them, add highlights, and share them with all of you here. Unfortunately, Reeder is "just an app" and doesn't have any API access. My RSS feeds contain various content like brain-melting articles, interesting blog posts, news from some of the sites around my interests, and some "alerts" with deals.
+[Reeder][3] was my companion for RSS feeds; its integration with my Apple devices provided a seamless user experience. Everything went well until I started writing more on my blog. I wanted to have API access and connect it with my site, especially the [linklog][4]. I was reading quite a lot of links and wanted to tag them, add highlights, and share them with all of you here. Unfortunately, Reeder is "just an app" and doesn't have any API access. My RSS feeds contain various content like brain-melting articles, interesting blog posts, news from some of the sites around my interests, and some "alerts" with deals.
 
 ## Adventure with Readwise Reader
 
@@ -35,14 +35,21 @@ I was looking for a solution and found Readwise Reader. It wasn't perfect; I eve
 
 Now, I've adopted a new approach to RSS reading. I have two apps:
 
-1. [NetNewsWire](https://netnewswire.com/) -- This free, open-source app now serves as my RSS feed workhorse. I can browse through the content and then decide whether or not to save it for later. Although it may not be as polished[^1] as Reeder or Readwise Reader, it gets the job done (fast!) and I am satisfied with it.
+1. [NetNewsWire][5] -- This free, open-source app now serves as my RSS feed workhorse. I can browse through the content and then decide whether or not to save it for later. Although it may not be as polished[^1] as Reeder or Readwise Reader, it gets the job done (fast!) and I am satisfied with it.
 {{< figure src="nnw.png" caption="My brain's way of categorizing things" >}}
 
-2. [Omnivore](https://omnivore.app/) -- I use this app to save content from NetNewsWire and the web at large. It's also available on all my devices, and I utilize it to read articles and make highlights. Similar to Reader, it integrates with Logseq, enabling me to save the highlights and incorporate them into my notes.
+2. [Omnivore][6] -- I use this app to save content from NetNewsWire and the web at large. It's also available on all my devices, and I utilize it to read articles and make highlights. Similar to Reader, it integrates with Logseq, enabling me to save the highlights and incorporate them into my notes.
 {{< figure src="omnivore.png" caption="I like the highlight on the right a lot" >}}
 
 The fact that both apps are open-source is a major plus. I believe that supporting these projects is a better way to invest my money rather than paying for underutilized features. Additionally, I appreciate the idea of having two separate apps for reading and saving content. It adds a layer of complexity, but it works well for me. My brain is happy with this solution -- it doesn't trigger the more powerful cores when in "browsing" mode, but it's ready to fire up when I'm in "consuming" mode.
 
 In conclusion, I am content with this solution and believe it is the best approach for now.
+
+[1]: https://read.readwise.io/
+[2]: https://social.lol/@lubieniebieski/112042085438667602
+[3]: https://reederapp.com/
+[4]: {{% relref "linklog" %}}
+[5]: https://netnewswire.com/
+[6]: https://omnivore.app/
 
 [^1]: For instance, the swipe gesture to mark articles could be more sensitive and trigger earlier.
