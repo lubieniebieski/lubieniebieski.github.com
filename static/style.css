@@ -69,3 +69,7 @@ button.tinylytics_kudos {
 .linklog-link a.mastodon-link {
   background-image: none;
 }
+
+.linklong-subtitle-area {
+  margin-left: 20px;
+}
