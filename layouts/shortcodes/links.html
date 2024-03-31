@@ -16,11 +16,12 @@
   <h2>{{ $date }}</h2>
   {{ range $links }}
     {{ if eq (dateFormat "January, 2006" .timestamp) $date }}
-      <div>
+      <div class="linklog-link">
         {{ if eq .source "mastodon" }}
           <a
             href="{{ .source_url }}"
             title="Click here for the original toot on Mastodon"
+            class="mastodon-link"
             >🐘</a
           >
         {{ else }}
@@ -33,6 +34,15 @@
             #{{- . -}}
           </code>
         {{ end }}
+        <p class="description">
+          <small >
+            {{ if .commentary }}
+              {{ .commentary }}
+            {{ else }}
+              {{ .description | safeHTML | truncate 299 }}
+            {{ end }}
+          </small>
+        </p>
       </div>
     {{ end }}
   {{ end }}
