@@ -7,4 +7,4 @@ When I boost something on Mastodon 🐘, or mark as favorite in my read-it-later
 
 Enjoy browsing through this random collection of links curated by hand by me, Adam.
 
-{{< links url="https://lubieniebieski-api.fly.dev/links" >}}
+{{< links url="https://api.lubieniebieski.pl/links" >}}
