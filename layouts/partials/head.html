@@ -66,8 +66,8 @@
 {{ else }}
   {{ if isset $.Site.Params "ogimage" }}
     {{ $featured := resources.Get "/opengraph/background-og.png" }}
-    {{ $size := 150 }}
-    {{ $title := $.LinkTitle | truncate 55 "..." | string }}
+    {{ $size := 120 }}
+    {{ $title := $.LinkTitle | truncate 90 "..." | string }}
 
     {{ $text := $title }}
     {{ $y := 550 }}
