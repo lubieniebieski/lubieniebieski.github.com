@@ -8,6 +8,7 @@ params:
   themeColor: blue
   favicon: favicon.ico
   ogimage: favicon-512.png
+  readingTime: true
   appleTouchIcon: apple-touch-icon.png
   subtitle: "Personal blog written by Adam Nowak aka lubieniebieski. Made with \U0001F499"
   showLastUpdated: true
