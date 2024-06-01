@@ -21,6 +21,9 @@ params:
     - /tags/
     - /linklog/
     - /blogroll/
+  author: Adam Nowak
+  authorUrl: https://lubieniebieski.pl
+  authorAvatar: "https://lubieniebieski.pl/about/lubieniebieski_avatar.png"
 
 languages:
   en:
@@ -59,9 +62,19 @@ languages:
           name: RSS
           url: /feed.xml
           weight: 7
+
 outputFormats:
   RSS:
     baseName: feed
+  JSON:
+    baseName: feed
+
+outputs:
+  home:
+    - RSS
+    - HTML
+    - JSON
+
 caches:
   getjson:
     maxAge: 3600
