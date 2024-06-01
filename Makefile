@@ -15,3 +15,13 @@ server:
 
 clean:
 	rm -rf $(TMPDIR)/hugo_cache/*
+
+new_bullet:
+	@NUM=$$(ls content/bullets/ | sort -n | tail -1); \
+	if [ -n "$$NUM" ]; then \
+		NEW_NUM=$$((10#$$NUM + 1)); \
+		NEW_NUM=$$(printf "%03d" $$NEW_NUM); \
+		hugo new bullets/$$NEW_NUM; \
+	else \
+		echo "Error: Unexpected result."; \
+	fi
