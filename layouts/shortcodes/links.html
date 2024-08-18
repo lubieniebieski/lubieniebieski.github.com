@@ -1,6 +1,8 @@
 
 {{ $apiUrl := .Get "url" }}
-{{ $links := getJSON $apiUrl }}
+{{ $remoteData := resources.GetRemote $apiUrl }}
+{{ $links := $remoteData | transform.Unmarshal }}
+
 
 {{ $data := $links }}
 {{ $.Scratch.Set "isMonthHeaderCreated" false }}

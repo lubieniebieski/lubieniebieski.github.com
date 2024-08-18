@@ -1,5 +1,7 @@
 {{ $feedsLocation := .Get "location" }}
-{{ $feeds := getJSON $feedsLocation }}
+{{ $localData := resources.Get $feedsLocation }}
+{{ $feeds := $localData.Content | transform.Unmarshal }}
+
 <table>
   <thead>
     <tr>
