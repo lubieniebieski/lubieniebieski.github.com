@@ -1,6 +1,6 @@
 {{ $source := .Get "src" }}
 {{ $image := .Page.Resources.GetMatch $source }}
-{{ $url := $image.RelPermalink }}
+{{ $url := $image.Permalink }}
 {{ $caption := .Get "caption" }}
 {{ $position := .Get "position" | default "left" }}
 {{ $captionPosition := .Get "captionPosition" | default "center" }}
