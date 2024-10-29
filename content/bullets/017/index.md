@@ -26,7 +26,7 @@ Welcome to Bullets #17! Sit back, relax, and dive into the latest edition of the
 
 ## The brighter side(s)
 
-🏃🏻‍♂️ I completed [my first half-marathon](https://www.strava.com/activities/12758187033/overview) with a sub-2-hour result! I'm incredibly happy, even though I was surprised by the lack of energy in my legs in the last few kilometers. This event marked one of my biggest goals for this year, and I'm thrilled to have achieved it.
+🏃🏻‍♂️ I completed [my first half-marathon][3] with a sub-2-hour result! I'm incredibly happy, even though I was surprised by the lack of energy in my legs in the last few kilometers. This event marked one of my biggest goals for this year, and I'm thrilled to have achieved it.
   
 📝 I'm experimenting with Obsidian! My notes-taking system has been struggling lately, so I'm hoping that switching to Obsidian will help me improve. One positive outcome is that I drafted this post in Obsidian, and you're reading it right now on my blog. It's a nice side effect! Now, I just need to figure out how to use Obsidian effectively, establish a daily, weekly, or monthly notes routine, and so on. I believe it should be relatively straightforward. If you read this and use Obsidian yourself, please share your favorite resources with me. Perhaps you've developed a workflow that you're happy with, or maybe you know someone who's worth following. Any information that could enhance my journey with Obsidian would be greatly appreciated🙏
 
@@ -41,9 +41,9 @@ Welcome to Bullets #17! Sit back, relax, and dive into the latest edition of the
 🍏 On a brighter note, Apple recently released new Mac Minis, and I must admit, I'm captivated by their compact yet powerful design!
 {{< figure src="mac_mini.jpg" >}}
 
-🧐 In the software realm, I recently discovered that [Omnivore is joining ElevenLabs](https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs). I'm not sure whether this is a positive or negative development, especially considering I've found a comfortable rhythm with my DCCF (Digital Content Consumption Flow) using NetNewsWire and Omnivore. We'll see how this change affects my workflow.
+🧐 In the software realm, I recently discovered that [Omnivore is joining ElevenLabs][4]. I'm not sure whether this is a positive or negative development, especially considering I've found a comfortable rhythm with my DCCF (Digital Content Consumption Flow) using NetNewsWire and Omnivore. We'll see how this change affects my workflow.
 
-📖 In the meantime, I encourage you to read my friend Michał's insightful article  [You May Need a Gap Year - Five Reflections](https://read.perspectiveship.com/p/post-gap-year). After reading this, I realized that my current unemployment situation might have a more sophisticated name, definitely 😅
+📖 In the meantime, I encourage you to read my friend Michał's insightful article  [You May Need a Gap Year - Five Reflections][5]. After reading this, I realized that my current unemployment situation might have a more sophisticated name, definitely 😅
 
 I miss you all, wonderful people! <3 I hope you're all doing fantastic!
 
@@ -51,3 +51,6 @@ PS: I'm also glad that the Hugo theme I'm using is back in the development stage
 
 [1]: {{< relref "/bullets/016" >}}
 [2]: {{< relref "/categories/bullets" >}}
+[3]: https://www.strava.com/activities/12758187033/overview
+[4]: https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs
+[5]: https://read.perspectiveship.com/p/post-gap-year
