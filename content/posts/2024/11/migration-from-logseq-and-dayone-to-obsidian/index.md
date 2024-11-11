@@ -31,7 +31,7 @@ I love monospaced fonts, but I don't have a clear winner in terms of fonts. Ther
 
 ## Theme
 
-I'm a big [Dracula][8] fan and use it all around the place; however, it didn't click with me in Obsidian. Thankfully, I found an inspiration from [CyanVoxel](https://www.youtube.com/watch?v=9T9VL8_i1Tg) in one of his videos!
+I'm a big [Dracula][8] fan and use it all around the place; however, it didn't click with me in Obsidian. Thankfully, I found an inspiration from [CyanVoxel][9] in one of his videos!
 
 ## Daily templates
 
@@ -60,7 +60,7 @@ A few thousand journal entries from DayOne were a bigger challenge. I tried a fe
 The biggest headache was the output format and the front matter. I decided to make it compatible with the Journals plugin to save some time. I saved the first sentence of the journal entry as the `DailySummary::` section, and thanks to that, I have a nice-looking *"On that day"* part of my daily journal.  
 
 > My importer is a messy thing not worth pushing to GitHub, but if by any chance you see the possibility that it might benefit your own migration process, just ping me.
->
+
 ## Don’t do everything at once
 
 That’s that, expect for the fact that I also went [Johnny.Decimal][15] in the same time. I was struggling between discovering Obsidian and migrating the old tools to a yet not discovered environment. Sometimes I like to mess my routine, usually after a slower and poor period I get my anticipated productivity hit. I felt it pretty quickly this time.
@@ -74,7 +74,7 @@ That’s that, expect for the fact that I also went [Johnny.Decimal][15] in the 
 
 If you have any questions, or suggestions on how to improve my setup, feel free to reach out! What I did was a quick and dirty migration, and I'm sure there are many things that could be done better.
 
-It was fun, it always is! Solid 3/10 for the migration process :D
+It was fun, it always is! Solid 3/10 for the migration process :D I'm happy to join the Obsidian community!
 
 [1]: https://dayoneapp.com/
 [2]: https://logseq.com/
