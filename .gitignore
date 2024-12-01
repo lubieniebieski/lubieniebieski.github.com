@@ -16,3 +16,4 @@ hugo.linux
 .DS_Store
 tmp/
 .netlify/
+content/.sync.ffs_db
