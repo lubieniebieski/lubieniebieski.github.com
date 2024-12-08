@@ -22,10 +22,10 @@ My name is Adam, and last year I did something both terrifying and exciting—I 
 
 When I left my job, I didn't have a clear roadmap for what to do next. I just knew I needed some time. No hustle, no crazy goals. Just _time_. But as the weeks went on, I started thinking about things I'd always wanted to accomplish but had never managed to squeeze into my busy schedule. Here's what I came up with for my "life-on-pause" to-do list:
 
-- ✅ Run a half-marathon (because why not torture myself in the name of fitness and longer life?) [Bullets#17]({{<relref "bullets/017">}})
-- ✅ Start a LEGO-based side hustle with my wife (it's out there already - [Zabawnia](https://zabawnia.pl))
-- ✅ Sell a piece of furniture I made with my own two hands [Bullets#14]({{<relref "bullets/014">}})
-- ✅ Finish a long-overdue renovation on a few rooms in our house, and build a garden shed/storage space for all those tools and gardening supplies you need when you decide to have a garden [Bullets#9]({{<relref "bullets/009">}})
+- ✅ Run a half-marathon (because why not torture myself in the name of fitness and longer life?) [Bullets#17][1]
+- ✅ Start a LEGO-based side hustle with my wife (it's out there already - [Zabawnia][2])
+- ✅ Sell a piece of furniture I made with my own two hands [Bullets#14][3]
+- ✅ Finish a long-overdue renovation on a few rooms in our house, and build a garden shed/storage space for all those tools and gardening supplies you need when you decide to have a garden [Bullets#9][4]
 - ✅ _Actually_ keep in touch with friends instead of just thinking, "Oh, I should text them sometime!"
 
 But this wasn't just about ticking boxes or chasing achievements. I also made a personal _non-negotiables_ list:
@@ -82,3 +82,9 @@ I've decided that I want to keep this part of my life alive. If you're a builder
 I found balance in life. I started to appreciate the things I once took for granted. I learned that many clichés are true after all. Nothing monumental happened, and that's okay. Or maybe it does matter—it was refreshing to simply live without the daily grind weighing me down. I made progress. I enjoyed the journey, I'm proud of the outcomes, and I love the place I've ended up. I didn't have to wait until retirement to experience what it might feel like, and I've realized that if I want a happy retirement someday, I need to stay healthy, maintain balance, and nurture my passions along the way. Both the mind and the body need to stay in a good shape.
 
 I wish everyone could have the chance to take a longer, uninterrupted break while healthy—to revisit their perspective on what really matters, what's worth chasing, and which things might not be as important as they seem.
+
+[1]: {{<relref "bullets/017">}}
+[2]: https://zabawnia.pl
+[3]: {{<relref "bullets/014">}}
+[4]: {{<relref "bullets/009">}}
+[5]: https://www.youtube.com/watch?v=RMxRDTfzgpU
