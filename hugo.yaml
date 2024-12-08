@@ -42,10 +42,6 @@ languages:
           name: cyk
           url: /categories/cyk
           weight: 2
-        - identifier: linklog
-          name: linklog
-          url: /linklog
-          weight: 3
         - identifier: uses
           name: uses
           url: /uses
