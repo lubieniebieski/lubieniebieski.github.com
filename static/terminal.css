@@ -1,13 +1,62 @@
 :root {
-    --background: #1d212c;
+    --background: #1d212b;
     --foreground: #ffffff;
-    --accent: #23B0FF;
+    --accent: #22b0ff;
+    --radius: 0;
     --font-size: 1.3rem;
-
+    --line-height: 1.54em;
 }
 
 
+h1,
+h2 {
+    text-transform: none;
+}
+
+body {
+
+    font-size: var(--font-size);
+
+}
+
+.post-tags {
+    a {
+        text-decoration: none;
+    }
+}
+
+.post-content a {
+    color: inherit;
+    background-image: linear-gradient(var(--accent), var(--accent));
+    background-repeat: repeat-x;
+    background-position: 0 95%;
+    background-size: 1px 2px;
+    text-decoration: none;
+    text-shadow: .03em 0 var(--background), -.03em 0 var(--background), 0 .03em var(--background), 0 -.03em var(--background),
+        .06em 0 var(--background), -.06em 0 var(--background), .09em 0 var(--background), -.09em 0 var(--background),
+        .12em 0 var(--background), -.12em 0 var(--background), .15em 0 var(--background), -.15em 0 var(--background),
+        .03em .075em var(--background), -.03em .075em var(--background), .06em .075em var(--background),
+        -.06em .075em var(--background), .09em .075em var(--background), -.09em .075em var(--background),
+        .12em .075em var(--background), -.12em .075em var(--background), .15em .075em var(--background),
+        -.15em .075em var(--background);
+
+    &:hover {
+        color: var(--accent);
+    }
+
+    &.footnote-backref,
+    &.footnote-ref,
+    &.hanchor {
+        background: none;
+        color: var(--accent);
+    }
+}
+
 blockquote {
+    &::before {
+        content: "";
+    }
+
     &.panel {
         font-style: italic;
         font-size: 80%;
@@ -30,10 +79,12 @@ blockquote {
 
 .navigation-menu a {
     text-decoration: none;
+    color: inherit;
 }
 
 .navigation-menu a:hover {
     font-weight: bold;
+    color: var(--accent);
 }
 
 .navigation-menu__inner {
@@ -55,10 +106,12 @@ blockquote {
 }
 
 button.tinylytics_kudos {
+    display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
     background: none;
-    color: #0092ca;
+    border: 1px solid var(--accent);
 
     &.did_select {
         border-style: dashed;
