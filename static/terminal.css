@@ -2,6 +2,7 @@
     --background: #1d212b;
     --foreground: #ffffff;
     --accent: #22b0ff;
+    --gray: #646464;
     --radius: 0;
     --font-size: 1.3rem;
     --line-height: 1.54em;
@@ -53,9 +54,7 @@ body {
 }
 
 blockquote {
-    &::before {
-        content: "";
-    }
+
 
     &.panel {
         font-style: italic;
@@ -64,16 +63,20 @@ blockquote {
         border-left: none;
         border-right: none;
         text-align: center;
+
+        &::before {
+            content: "";
+        }
     }
 
     &.info {
-        border: 1px dashed rgb(35, 176, 255, 1);
-        background-color: rgb(35, 176, 255, 0.1);
+        border: 1px dashed var(--accent);
+        background-color: var(--background);
     }
 
     &.misc {
-        border: 1px dashed rgb(100, 100, 100, 1);
-        background-color: rgba(100, 100, 100, 0.1);
+        border: 1px dashed var(--gray);
+        background-color: rgba(var(--gray-rgb), 0.1);
     }
 }
 
@@ -121,7 +124,7 @@ button.tinylytics_kudos {
 .linklog-link .description {
     margin-left: 20px;
     padding-left: 10px;
-    border-left: 1px dashed rgb(100, 100, 100, 1)
+    border-left: 1px dashed var(--gray);
 }
 
 .linklog-link a.mastodon-link {
