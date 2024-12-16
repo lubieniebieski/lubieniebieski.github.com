@@ -9,6 +9,12 @@
   font-size: 80%;
 }
 
+#webmentions img {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
 #webmentions .reacts img {
   margin: 3px -1ex 1px 0;
 }
