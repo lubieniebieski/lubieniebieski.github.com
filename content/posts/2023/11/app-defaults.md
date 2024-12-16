@@ -27,18 +27,18 @@ It's nothing big, but you might discover some new apps or workflows that you hav
 
 * 📨 Mail Client: **Mail.app**
 * 📮 Mail Server: **[Fastmail][3]**
-* 📝 Notes: PKM: **[Logseq][4]** + **[Drafts][5]** + **Notes.appp**
+* 📝 Notes: PKM: **[Obsidian][4]**
 * ✅ To-Do: **Reminders.app**
 * 📷 iPhone Photo Shooting: **Camera.app**
 * 🟦 Photo Management: **Lightroom Classic** + **Photos.app**
 * 📆 Calendar: **Calendar.app**
 * 📁 Cloud File Storage: **iCloud Drive**
-* 📖 RSS: **[Readwise][6]**
+* 📖 RSS: **[NetNewsWire][6]**
 * 🙍🏻‍♂️ Contacts: **Contacts.app**
 * 🌐 Browser: **[Arc][7]**
 * 💬 Chat: **iMessage**
 * 🔖 Bookmarks: *I don't!*
-* 📑 Read It Later: **[Readwise][6]**
+* 📑 Read It Later: **[Obsidian Clipper][4]**
 * 📜 Word Processing: **Markdown**
 * 📈 Spreadsheets: **Google Sheets**
 * 📊 Presentations: **Keynote**
@@ -55,9 +55,8 @@ If that's not enough, you can check out my [/uses][11] page for more details abo
 [1]: https://listen.hemisphericviews.com/097
 [2]: https://rknight.me/
 [3]: https://ref.fm/u29262816
-[4]: https://logseq.com/
-[5]: https://getdrafts.com/
-[6]: https://readwise.io/read
+[4]: https://obsidian.md/
+[6]: https://netnewswire.com/
 [7]: https://arc.net/
 [8]: https://myfund.pl/
 [9]: https://overcast.fm/
