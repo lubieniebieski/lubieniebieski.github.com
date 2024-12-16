@@ -10,21 +10,18 @@ type: page
 
 Last update: **{{< lastmod >}}**
 
-## What I’m enjoying
+## What I'm enjoying
 
-* I'm working on a few projects at the same time, I'm not bored at all! It includes woodworking and programming!
-* Recently I've bought an action cam and I'm having a lot of fun with it! The only problem is that I'm terrified of the fact that you have to do something with the footage, otherwise it's just a waste of time and money.
+* Most of my projects are done and I'm enjoying the results.
+* I'm going through Advent of Code 2024 and I'm having fun, as always (until I hit the wall).
+* I got back to running after a longer break! I feel much better when I'm active.
 
-## What I’m exploring
+## What I'm exploring
 
-* I'm exploring e-commerce world using Ruby on Rails and implementing things like shopping cart. I'm also learning Turbo Streams which I haven't used before.
-* I want to build a workbench for my "workshop". Try `paulk workbench` in Google Images and you'll know what I mean.
+* I'm exploring job opportunities and I'm open to new challenges.
 
-## What I’m watching
+## What I'm watching / reading / listening to
 
-* I'm on season 3 of Slow Horses, 4th season of True Detective and in the middle of 2nd season of Ted Lasso (re-watching).
-* YouTube keeps on recommending me videos about woodworking and I'm not complaining.
+* I'm on book #7 from Jack Reacher series by Lee Child. I like the action and the way the story is told. Books are available via my monthly subscription to Audioteka, so I don't have to worry about the price.
 
 [1]: https://nownownow.com/about
-[2]: {{< ref "/bullets/007" >}}
-[3]: https://e-services.blum.com
