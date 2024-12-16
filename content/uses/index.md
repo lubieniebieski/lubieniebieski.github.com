@@ -12,12 +12,11 @@ At work, I have to spend a lot of times in meetings, listen to people, analyze i
 
 ### Notes, writing
 
-* [Craft][1]: note-taking / PKM / journaling. Powerful search, build in assistant and it's [optimized for Mac][2] -- my favorite example of how the app should "feel".
+* [Obsidian][1]: Works as my second brain and knowledge base. I use it to write notes, keep a journal, and organize my thoughts. I love the way it works with markdown files and the ability to link notes together.
 * [Mindnode][3]: mind-mapping software for Mac, iPhone, and iPad. I start a lot of my projects and thoughts with this app and then move to Craft or another place to continue.
 * [Notability][4]: note taking/sketching/drawing app for iPad. I use it to take notes during meetings, draw diagrams, etc. It's a great tool for that.
 * [Visual Studio Code][5]: my code editor of choice. I'm not that actively writing code these days, but I still use it for some projects. I've tried a lot of editors, but this one is the best for me. Still in love with Vim, though (it's a shame that muscle memory vanished after long break).
 * [Excalidraw][6]: An open source virtual hand-drawn style whiteboard tool for sketching diagrams that have a hand-drawn feel to them.
-* [DayOne][7]: Journaling app. I use it to keep track of my daily activities, thoughts, and other crazy things I've done during the day.
 
 ### Productivity
 
@@ -39,21 +38,19 @@ At work, I have to spend a lot of times in meetings, listen to people, analyze i
 
 ### Knowledge
 
-* [Reeder][21]: RSS reader for Mac and iOS. I use it to keep up with the latest news in the tech industry.
 * [Overcast][22]: My favorite podcast app for iOS. It's simple, fast, and has a lot of features. I use it to listen to podcasts while driving, working out, etc. Smart speed FTW!
+* [NetNewsWire][21]: My favorite RSS reader. I use it to keep up with my favorite blogs and news sites.
 
 ### Fun
 
 * [Apple Music][23]: Not very social like Spotify, but it gets the job done.
 * [Lightroom][24]: I like to take photos from time to time and it's hard for me to imagine my life without editing them before the are added to my photo library.
 
-[1]: https://craft.io/
-[2]: https://www.craft.do/maccatalyst-guide
+[1]: https://obsidian.md/
 [3]: https://mindnode.com/
 [4]: https://notability.com/
 [5]: https://code.visualstudio.com/
 [6]: https://excalidraw.com/
-[7]: https://dayoneapp.com/
 [8]: https://raycast.com/
 [9]: https://thebrowser.company/
 [10]: https://github.com/leits/MeetingBar
@@ -67,7 +64,7 @@ At work, I have to spend a lot of times in meetings, listen to people, analyze i
 [18]: https://bjango.com/mac/istatmenus/
 [19]: https://tapbots.com/ivory/
 [20]: https://en.wikipedia.org/wiki/Fediverse
-[21]: https://reederapp.com/
+[21]: https://netnewswire.com/
 [22]: https://overcast.fm
 [23]: https://www.apple.com/music/
 [24]: https://www.adobe.com/products/photoshop-lightroom.html
