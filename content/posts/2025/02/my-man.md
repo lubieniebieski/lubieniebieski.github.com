@@ -36,7 +36,7 @@ Less talk, more doing. Instead of endlessly analyzing every possibility, they ju
 
 A good heart matters. "My kind of person" understands people's struggles, treats others with respect, and won't hesitate to stand up for someone who needs it.
 
-### 6. They know the difference between 2000 colombian pesos and 2 slightly less valuable 1000 pesos
+### 6. They know the difference between 2000 Colombian pesos and 2 slightly less valuable 1000 pesos
 
 If you know, you know.
 
