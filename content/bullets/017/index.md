@@ -6,7 +6,6 @@ slug: "17"
 description: I'm a 50% marathon runner now! 🏃‍♂️🎉 It's dark outside!
 categories:
   - bullets
-  - summary
 tags: 
   - obsidian
   - half-marathon

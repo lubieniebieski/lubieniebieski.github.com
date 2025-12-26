@@ -6,7 +6,6 @@ slug: "13"
 description: Another trip to mountains, progress and setbacks with woodworking, new web projects, and Tadej Pogačar having fun while destroying the competition.
 categories:
   - bullets
-  - summary
 tags: 
 - Samotnia
 - Karkonosze

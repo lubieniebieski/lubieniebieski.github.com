@@ -13,7 +13,6 @@ tags:
   - F40
 categories:
   - cyk
-  - cars
 showFullContent: false
 description: I was wandering through Dubai when I saw a breathtaking Bugatti Divo with a finish in the most stunning shade of blue, parked inside a luxury car dealership.
 ---

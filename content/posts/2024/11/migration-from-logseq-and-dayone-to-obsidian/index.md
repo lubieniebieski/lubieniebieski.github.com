@@ -5,7 +5,7 @@ date: "2024-11-11T21:32:55+01:00"
 url: migration-to-obsidian
 description: After 11 years with DayOne and 2 years with Logseq, I migrated to Obsidian. Here's how it went. See the font and colors I use, daily templates, and how I imported data from old tools to the new one.
 categories:
-  - productivity
+  - tech
 tags:
   - obsidian
   - logseq

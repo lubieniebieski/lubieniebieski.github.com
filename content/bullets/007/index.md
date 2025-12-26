@@ -6,7 +6,6 @@ slug: "7"
 description: Navigating a COVID recovery, contemplating a career move after 12 fulfilling years, enjoying Bond movies, tackling house DIYs, and looking forward to Advent of Code 2023!
 categories:
   - bullets
-  - summary
 tags: 
   - woodworking
   - covid

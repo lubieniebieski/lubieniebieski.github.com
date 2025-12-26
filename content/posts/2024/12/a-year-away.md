@@ -4,8 +4,8 @@ author: adam nowak
 date: 2024-12-08T20:52:18+01:00
 url: a-year-away
 description: "I always imagined writing a post with this title while lounging in a fancy place, like a cozy flat with a crackling fireplace, or maybe on a beach with the sound of waves in the background. Instead, here I am, sitting at my desk in front of my computer, reflecting on what turned out to be one of the happiest 12 months of my life."
-categories: 
-- personal
+categories:
+  - thoughts
 tags: 
 - life
 - career break

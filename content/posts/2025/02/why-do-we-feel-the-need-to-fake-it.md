@@ -3,7 +3,7 @@ title: Why do we feel the need to fake it?
 author: adam nowak
 date: 2025-02-05T09:54:33+01:00
 categories:
-  - personal
+  - thoughts
   - thoughts
 tags:
   - socialmedia

@@ -6,8 +6,7 @@ url: logseq
 cover: "graph.png"
 description: From scattered notes to streamlined thoughts, find out why Logseq stands out in a sea of alternatives.
 categories:
-  - personal
-  - productivity
+  - thoughts
 tags:
   - Logseq
   - note-taking

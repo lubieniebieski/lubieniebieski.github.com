@@ -5,7 +5,7 @@ date: "2023-06-03T20:35:12+02:00"
 cover: "Ted_Lasso_Photo_031204.jpg.photo_modal_show_home_large_2x.jpg"
 description: It was supposed to be a comedy, a moment when I could turn my brain off for a bit and enjoy some easy TV. However, it turned out to be so much more. What surprised me the most was the **amount of tears** I shed while watching this show.
 categories:
-  - personal
+  - thoughts
 tags:
   - Ted Lasso
   - TV Show

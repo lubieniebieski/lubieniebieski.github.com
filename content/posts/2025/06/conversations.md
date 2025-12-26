@@ -5,7 +5,6 @@ date: "2025-06-10T20:27:16+02:00"
 description: "I had a conversation with my Mum. It was cool enough to write about it. Expect some nostalgia."
 categories:
   - thoughts
-  - personal
 tags:
   - nostalgia
   - family

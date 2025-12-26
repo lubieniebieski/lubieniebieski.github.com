@@ -6,7 +6,7 @@ url: where-am-i-2023
 description: After the events in Twitter back in 2022, I decided to rethink a bit my visibility there and other social media. Somehow, I ended up with a pretty old-school conclusion.
 categories:
   - site
-  - personal
+  - thoughts
 ---
 
 After the events in Twitter back in 2022, I decided to rethink a bit my visibility there and other social media. Somehow, I ended up with a pretty old-school conclusion.

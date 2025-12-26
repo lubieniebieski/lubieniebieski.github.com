@@ -6,7 +6,7 @@ url: prompts
 cover: "lubieniebieski_friendly_robot_in_a_hoodie_typing_on_the_keyboar_ff5b36a5-ca26-4c69-940d-e5d953e0ad39.png"
 description: I share how I use AI tools, specifically ChatGPT and MidJourney, in my daily work. I present my favorite prompts for English corrections/practice, and generating kids' coloring books.
 categories:
-  - AI
+  - tech
 tags:
   - ChatGPT
   - MidJourney

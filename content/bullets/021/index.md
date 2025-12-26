@@ -6,7 +6,6 @@ slug: "21"
 description: A return to (Neo)Vim, thoughts on the Tour de France 2025, and a family woodworking project.
 categories:
   - bullets
-  - summary
 tags:
   - neovim
   - cycling

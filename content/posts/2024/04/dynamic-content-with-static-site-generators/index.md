@@ -4,9 +4,8 @@ author: adam nowak
 date: "2024-04-02T19:39:07+02:00"
 description: "How to add dynamic content to a static site using Hugo and automate the process with webhooks."
 categories:
-  - dev
-  - productivity
   - site
+  - tech
 tags:
   - hugo
   - N8N

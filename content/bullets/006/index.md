@@ -7,8 +7,7 @@ cover: "202309_X1008788-lubieniebieskipl.jpg"
 description: Been obsessed with Baldur's Gate 3 lately, such a great game! I've been woodworking too and made a cutting board for my wife. Failed at a pencil holder but learned from it. Got a new keyboard. Also saved some cool links.
 
 categories:
-- bullets
-- summary
+  - bullets
 tags:
 - Baldur's Gate 3
 - Hardware

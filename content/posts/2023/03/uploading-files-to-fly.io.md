@@ -5,7 +5,7 @@ date: "2023-03-10T23:07:41+01:00"
 description: "How to upload/download files to Fly.io using scp command"
 categories:
   - site
-  - dev
+  - tech
 tags:
   - fly.io
   - scp

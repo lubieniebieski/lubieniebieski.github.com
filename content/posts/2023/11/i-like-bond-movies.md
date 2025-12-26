@@ -4,7 +4,7 @@ author: adam nowak
 date: "2023-11-13T12:08:10+01:00"
 description: "Discovering 'The Sound Of 007' reaffirmed my love for Bond movies, specifically the music. Also, I'm sharing my favorite Bond songs."
 categories:
-  - personal
+  - thoughts
 tags:
   - bond
   - '007'

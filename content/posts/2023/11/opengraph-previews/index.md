@@ -5,8 +5,8 @@ date: "2023-11-14T11:40:23+01:00"
 url:
 description: Guide to creating dynamic Open Graph previews for Hugo posts -- a unique blog-fitting preview for every post, even without a cover image. Turns out, it's simpler than you'd think!
 categories:
-  - dev
   - site
+  - tech
 tags:
   - hugo
   - opengraph

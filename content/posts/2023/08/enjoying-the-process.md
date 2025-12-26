@@ -4,7 +4,7 @@ author: adam nowak
 date: "2023-08-15T14:14:15+02:00"
 description: During my holiday, I found fulfillment in various activities like coding, woodworking, gardening, and housework. What I learned is that the most rewarding moments are when I fully immerse myself in the task, enjoying the process without fixating on the end result.
 categories:
-  - personal
+  - thoughts
   - thoughts
 ---
 

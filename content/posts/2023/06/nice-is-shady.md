@@ -5,7 +5,7 @@ date: "2023-06-16T21:13:35+02:00"
 url:
 description: Let's talk about conflict, harmony, and a little something I'd like to call, the "Openness Gauge". I'm rediscovering psychological safety.
 categories:
-  - personal
+  - thoughts
 tags:
   - psychological safety
   - teams

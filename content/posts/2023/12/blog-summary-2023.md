@@ -4,7 +4,6 @@ author: adam nowak
 date: "2023-12-31T12:23:01+01:00"
 description: As 2023 winds down, I celebrate a year rejuvenated by blogging. Heartfelt thanks to you, my readers, for accompanying me!
 categories:
-  - summary
   - site
 tags:
   - summary

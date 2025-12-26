@@ -4,8 +4,7 @@ author: adam nowak
 date: "2023-05-04T10:23:34+02:00"
 description:
 categories:
-  - personal
-  - summary
+  - thoughts
 tags:
   - life
   - ChatGPT

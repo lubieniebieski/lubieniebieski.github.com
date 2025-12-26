@@ -6,7 +6,6 @@ slug: "9"
 description: Embarking on a deep dive into the Advent of Code, mastering the art of woodworking, and soaking in the breathtaking scenery of Śnieżka.
 categories:
   - bullets
-  - summary
 tags:
   - Advent of Code
   - woodworking

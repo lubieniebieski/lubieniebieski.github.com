@@ -3,8 +3,7 @@ title: "February Summary"
 author: adam nowak
 date: "2023-03-02T22:17:52+01:00"
 categories:
-  - summary
-  - personal
+  - thoughts
 tags:
   - summary
 ---

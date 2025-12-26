@@ -7,7 +7,6 @@ cover: lubieniebieski_wooden_terrace_with_a_fast_cycling_bike_on_it_an_4b18b674-
 description: Tour de France excitement, bike setbacks, terrace transformation and an angry angle grinder.
 categories:
   - bullets
-  - summary
 tags:
   - cycling
   - Tour de France

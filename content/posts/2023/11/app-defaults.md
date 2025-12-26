@@ -5,8 +5,8 @@ date: "2023-11-18T12:37:56+01:00"
 url: defaults
 description: People share their app defaults, so do I. Check out my personal app choices and join the trend!
 categories:
-  - personal
-  - software
+  - tech
+  - thoughts
 tags:
   - mail
   - notes

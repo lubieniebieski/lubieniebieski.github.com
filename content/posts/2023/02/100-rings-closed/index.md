@@ -6,7 +6,7 @@ url: 100-rings-closed
 cover: cover.png
 description: "I've just closed the activity rings for 100th consecutive day!"
 categories:
-  - personal
+  - thoughts
 tags:
   - health
   - activity

@@ -6,7 +6,6 @@ slug: "11"
 description: A few reasons why January feels better than 2023. I'm back in action, reading, watching, listening, and coding!
 categories:
   - bullets
-  - summary
 tags: 
   - woodworking
   - books

@@ -6,7 +6,6 @@ slug: "10"
 description: In the 10th edition of Bullets, I reflect on the year and my experiences, from embracing my blog over social media to facing the challenges of being a generalist with diverse interests. I also touch on my journey back towards optimism, share updates on personal projects and hobbies, and end with well-wishes for 2024 to all my readers.
 categories:
   - bullets
-  - summary
 tags: 
 - optimism
 - woodworking

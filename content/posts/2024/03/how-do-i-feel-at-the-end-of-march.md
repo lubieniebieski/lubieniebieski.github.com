@@ -5,7 +5,7 @@ date: "2024-03-31T22:42:45+02:00"
 url:
 description: "The last few hours of the month have inspired me to write this post."
 categories:
-  - personal
+  - thoughts
 tags:
   - Easter
   - running

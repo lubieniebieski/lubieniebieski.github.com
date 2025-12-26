@@ -7,7 +7,6 @@ cover: "/about/lubieniebieski_avatar.png"
 description: "I've got a fresh new avatar thanks to Andy. Plus, I'm taking on a DIY terrace renovation and automating my garden watering. Apparently, I'm also looking for additional hours in a day."
 categories:
   - bullets
-  - summary
 tags: []
 ---
 

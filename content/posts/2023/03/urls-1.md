@@ -6,7 +6,7 @@ url: /urls/1
 description: I didn't want to spend eternity on figuring out a clever name, so we start with "URLs". Below you will find links I collected recently. As bonus to these links, you can find my commentary/description / recommendation. Enjoy "The URLs"!
 
 categories:
-  - urls
+  - site
 tags:
   - documentation
   - reliability

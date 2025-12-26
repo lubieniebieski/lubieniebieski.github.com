@@ -6,7 +6,6 @@ slug: "14"
 description: "The weather is great, the trees are green, and the flowers are blooming. The days are long, and when it rains, it's not cold. I love May! Things are going well for me!"
 categories:
   - bullets
-  - summary
 tags: 
   - woodworking
   - budgeting

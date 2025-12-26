@@ -5,8 +5,7 @@ date: "2024-04-19T18:08:37+02:00"
 cover: "cover.jpg"
 description: "I felt in love with Fallout almost 25 years ago, now I'm in love with the TV series."
 categories:
-  - personal
-  - movies
+  - thoughts
 tags:
   - Fallout
   - TV series

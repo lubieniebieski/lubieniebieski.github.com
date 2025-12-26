@@ -5,7 +5,7 @@ date: "2023-05-29T20:27:34+02:00"
 cover: "lubieniebieski_group_of_5_adults_in_a_circle_screaming_at_each__362fd892-6f53-425d-99cc-896f168ecffc.png"
 description: "I reflect on my social media journey from Facebook, via Instagram, Twitter to LinkedIn, and my eventual retreat from these platforms. I share my vision for a more personal and less intrusive social media experience, and how I find value in platforms like Mastodon and my personal blog."
 categories:
-  - personal
+  - thoughts
 tags:
   - social media
 ---

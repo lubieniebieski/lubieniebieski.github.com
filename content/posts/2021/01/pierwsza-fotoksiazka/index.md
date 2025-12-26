@@ -5,7 +5,7 @@ date: 2021-01-19T21:44:07+00:00
 url: pierwsza-fotoksiazka
 cover: IMG_0483.jpeg
 categories:
-  - personal
+  - thoughts
 tags:
   - personal
   - photography

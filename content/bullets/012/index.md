@@ -6,8 +6,6 @@ slug: "12"
 description: I had a great family trip to Tenerife but my action camera took a dive. Luckily, I have "insurance"! Excited for spring and busy days ahead! 
 categories:
   - bullets
-  - summary
-  - travel
 tags: 
   - Tenerife
   - Spain

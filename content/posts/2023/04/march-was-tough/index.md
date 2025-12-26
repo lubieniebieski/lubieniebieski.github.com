@@ -6,8 +6,7 @@ url:
 cover: lubieniebieski_Two_cyclists_on_a_mountain_road_ascending_a_zigz_0fec70bb-f6e7-400f-a851-d4915f3192d7.png
 description: After quite successful and productive February, March decided to be a bit more challenging. I had some issues on all fronts, but still managed to discover and experience a few interesting things.
 categories:
-  - personal
-  - summary
+  - thoughts
 tags:
   - life
   - logseq

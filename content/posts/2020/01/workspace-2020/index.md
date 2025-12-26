@@ -5,8 +5,7 @@ date: 2020-01-25T22:22:49+00:00
 url: workspace-2020
 cover: 20200121_P1211665-lubieniebieskipl-1.jpg
 categories:
-  - hardware
-  - my-workspace
+  - tech
 tags:
   - desk
   - display

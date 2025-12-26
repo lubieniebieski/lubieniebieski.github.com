@@ -5,7 +5,7 @@ date: "2023-02-18T21:10:38+01:00"
 url:
 description: I've recently realized that my habits for interacting with World Wide Web changed over time. Here's how I spend my time, consume the content and communicate in the internet.
 categories:
-  - personal
+  - thoughts
 tags:
   - Internet
   - RSS

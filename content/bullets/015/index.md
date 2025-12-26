@@ -6,7 +6,6 @@ slug: "15"
 description: I'm still running! But I no longer have a drone. I've been watching the Giro d'Italia, and I've been tidying up the garage and garden shed. I've also been reading the Wheel of Time series and connecting my Day One memories with Logseq. 
 categories:
   - bullets
-  - summary
 tags: 
   - drone
   - running

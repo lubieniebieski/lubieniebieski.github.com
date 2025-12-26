@@ -4,8 +4,8 @@ author: adam nowak
 date: 2025-02-24T22:02:29+01:00
 url: my-man
 description: This is a post dedicated to all the people I consider "my kind of person" -- those who share my values and make life a little brighter. If you're nodding your head while reading this, you're probably one of them!
-categories: 
-  - personal
+categories:
+  - thoughts
   - thoughts
 tags:
   - people 

@@ -6,7 +6,6 @@ slug: "19"
 description:   "Spring is in full swing! My red car is damaged, but... I saw a lot of blue ones at the car show!"
 categories:
   - bullets
-  - summary
 tags: [cars, family, running, cycling]
 ---
 

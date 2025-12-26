@@ -6,8 +6,7 @@ description: Another year, another post about the place where I spend the most o
 url: workspace-2021
 cover: 202102_X1004560-lubieniebieskipl-1.jpg
 categories:
-  - hardware
-  - my-workspace
+  - tech
 tags:
   - desk
   - display

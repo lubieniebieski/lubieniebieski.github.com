@@ -7,7 +7,6 @@ cover: "lubieniebieski_Brunette_dad_working_out_with_two_young_sons_in__eda2d589
 description: From an unforgettable vacation at Bory Tucholskie to embracing fitness with workout.lol. The dramatic Tour de France 2023 is finished and am excited about my new bike's promise. As days grow shorter, my reorganized movie collection awaits!
 categories:
   - bullets
-  - summary
 tags:
   - Tour de France
   - bike

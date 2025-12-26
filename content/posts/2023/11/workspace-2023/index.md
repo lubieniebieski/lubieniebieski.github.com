@@ -8,8 +8,7 @@ aliases:
   - workspace-2023
 cover: 202311_X1009248-lubieniebieskipl.jpg
 categories:
-  - hardware
-  - my-workspace
+  - tech
 tags:
   - desk
   - display

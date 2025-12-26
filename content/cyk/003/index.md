@@ -7,7 +7,7 @@ tags:
   - Apple
 categories:
   - cyk
-  - hardware
+  - tech
 ---
 
 Jak tylko zobaczyłem, że jest model w kolorze "niebieskim", nie mogłem się powstrzymać.

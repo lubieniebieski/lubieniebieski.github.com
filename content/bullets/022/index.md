@@ -6,7 +6,6 @@ slug: "22"
 description: "Early autumn catch-up: health! a walk in the woods, work shuffle, local races, football dad, cabinets, startup grind, and a dash of ASOT nostalgia."
 categories:
   - bullets
-  - summary
 tags: 
   - ASOT
   - forrest

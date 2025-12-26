@@ -5,7 +5,7 @@ date: "2024-03-13T20:15:01+01:00"
 url:
 description: It's time for me to dive deeper into my year-long experience with Readwise Reader, the reasons behind my departure, and the new approach to RSS that better suits my evolving needs.
 categories:
-  - productivity
+  - tech
 tags:
   - RSS
   - Readwise Reader

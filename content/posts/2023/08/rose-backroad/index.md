@@ -6,7 +6,7 @@ url: "rose-backroad-2023"
 cover: "202307_X1008720-lubieniebieskipl.jpg"
 description: I'm describing my new bike, Rose Backroad and my first impressions.
 categories:
-  - personal
+  - thoughts
 tags:
   - bike
   - cycling

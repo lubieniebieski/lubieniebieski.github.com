@@ -7,7 +7,6 @@ cover: "lubieniebieski_smiling_middle_aged_man_in_lycra_riding_the_road_4c427a66
 description: I had a super productive week, blogging a lot thanks to my new 'bullets' format. I've revisited Mimestream, an email client, and been biking a lot with my son. Bought a new bike alarm, water cages, and bottles. Also, I enjoyed a Netflix show about the Tour de France. A video about trauma left a big impact on me. Finally, a chat with a friend made me value relatability online.
 categories:
   - bullets
-  - summary
 tags:
 - MAMIL
 - Mimestream

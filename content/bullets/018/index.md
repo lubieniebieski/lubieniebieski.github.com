@@ -6,7 +6,6 @@ slug: "18"
 description: It's been a few months since the last edition of "Bullets" came out in October '24, so let's fix it ASAP!
 categories:
   - bullets
-  - summary
 tags: 
   - cycling
   - rummikub

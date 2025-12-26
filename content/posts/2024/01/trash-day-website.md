@@ -6,8 +6,7 @@ url:
 description: "I wrote an app for trash collection reminders, so I never miss a pickup again."
 categories:
   - site
-  - software
-  - dev
+  - tech
 tags:
   - project
   - tech

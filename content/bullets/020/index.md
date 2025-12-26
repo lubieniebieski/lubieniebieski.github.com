@@ -6,7 +6,6 @@ slug: "20"
 description: I'm back to being an engineer, so I refactored my battlestation. I also have some thoughts after getting back to work after a long break.
 categories:
   - bullets
-  - summary
 tags: 
   - battlestation
   - work

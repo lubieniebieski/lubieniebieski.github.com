@@ -6,7 +6,6 @@ slug: "16"
 description: Kasia and Tadej are the best in Tour de France 2024! I'm doing great, running a lot, and reading the last book from the Wheel of Time series. We went to an aviation event, and I'm working on a big woodworking project. Life is great!
 categories:
   - bullets
-  - summary
 tags: 
   - cycling
   - woodworking

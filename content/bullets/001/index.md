@@ -6,7 +6,6 @@ slug: "1"
 description: "In this blog post, I introduce my new series called 'Bullets' where I share my thoughts and experiences in a concise bullet point format. There's a photo of a blue car and a few links to other people's blogs."
 categories:
   - bullets
-  - summary
 tags: []
 ---
 
