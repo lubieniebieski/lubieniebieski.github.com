@@ -4,7 +4,6 @@ author: "adam nowak"
 date: "2023-11-28T20:58:28+01:00"
 slug: "8"
 description: Revived my blog with seven November posts, exploring tech and personal topics. Updated the blog's layout, discovered inspiring  bloggers, and dove into home automation. Embracing the fresh freedom of unemployment, I'm energized for future hobbies and projects.
-
 categories:
   - bullets
 tags: 
@@ -14,8 +13,6 @@ tags:
 - homebridge
 - RSS
 - blog
-
-
 ---
 
 Welcome to Bullets #8! You can read the previous one here: [bullets/7][1].
