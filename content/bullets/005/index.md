@@ -14,7 +14,6 @@ tags:
   - terrace
   - Bory Tucholskie
   - Trakt
-date: 2023-07-26T22:47:12+02:00
 ---
 
 Welcome to Bullets #5! You can read the previous one here: [bullets/4][1].

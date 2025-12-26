@@ -17,7 +17,6 @@ tags:
   - cycling
   - backpack
 
-date: 2024-02-27T08:14:58+01:00
 ---
 
 Welcome to Bullets #12! You can read the previous one here: [bullets/11][1].

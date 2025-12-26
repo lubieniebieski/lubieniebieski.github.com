@@ -15,7 +15,6 @@ tags:
   - BMW
   - Actual
   - cake
-date: 2024-05-03T20:47:19+02:00
 ---
 
 Welcome to Bullets #14! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/13][1].

@@ -15,7 +15,6 @@ tags:
   - coding
   - timery
   - tv shows
-date: 2024-01-23T21:07:55+01:00
 ---
 
 Welcome to Bullets #11! You can read the previous one here: [bullets/10][1].

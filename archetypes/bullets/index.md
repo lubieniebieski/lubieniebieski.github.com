@@ -12,7 +12,6 @@ categories:
   - bullets
   - summary
 tags: []
-date: {{ .Date }}
 ---
 
 Welcome to Bullets #{{ $no }}! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/{{ $prev }}][1].

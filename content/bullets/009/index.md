@@ -11,7 +11,6 @@ tags:
   - Advent of Code
   - woodworking
   - mountains
-date: 2023-12-22T21:25:43+01:00
 ---
 
 Welcome to Bullets #9! You can read the previous one here: [bullets/8][1].

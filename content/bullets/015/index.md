@@ -16,7 +16,6 @@ tags:
   - Day One
   - Logseq
   - mountains  
-date: 2024-06-01T21:51:28+02:00
 ---
 
 Welcome to Bullets #15! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/14][1].

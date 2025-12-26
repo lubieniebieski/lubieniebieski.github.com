@@ -12,7 +12,6 @@ tags:
 - woodworking
 - cycling
 - generalist
-date: 2024-01-07T22:21:26+01:00
 ---
 
 Welcome to Bullets #10! You can read the previous one here: [bullets/9][1].

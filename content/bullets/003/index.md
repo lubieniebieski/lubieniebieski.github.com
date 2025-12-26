@@ -13,7 +13,6 @@ tags:
 - Mimestream
 - Tour de France
 - mental health
-date: 2023-06-24T21:30:20+02:00
 ---
 
 Welcome to Bullets #3! You can read the previous one here: [bullets/002][1].

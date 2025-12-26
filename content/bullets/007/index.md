@@ -12,7 +12,6 @@ tags:
   - covid
   - hardware
   - work
-date: 2023-11-13T20:14:09+01:00
 ---
 
 Welcome to Bullets #7! You can read the previous one here: [bullets/6][1].

@@ -12,7 +12,6 @@ tags:
   - forrest
   - health
   - running
-date: 2025-10-19T19:08:45+02:00
 ---
 
 Welcome to Bullets #22! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/21][1].

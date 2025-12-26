@@ -17,7 +17,6 @@ tags:
 - Tadej Pogačar
 - coding
 
-date: 2024-03-24T20:30:00+01:00
 ---
 
 Welcome to Bullets #13! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/12][1].

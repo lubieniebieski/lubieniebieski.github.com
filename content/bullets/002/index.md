@@ -9,7 +9,6 @@ categories:
   - bullets
   - summary
 tags: []
-date: 2023-06-17T22:18:04+02:00
 ---
 
 Welcome to Bullets #2! You can read the previous one [here][1].

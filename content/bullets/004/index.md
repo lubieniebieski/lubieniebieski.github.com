@@ -13,8 +13,6 @@ tags:
   - Tour de France
   - ChatGPT
   - terrace
-
-date: 2023-07-09T22:00:05+02:00
 ---
 
 Welcome to Bullets #4! You can read the previous one here: [bullets/3][1].

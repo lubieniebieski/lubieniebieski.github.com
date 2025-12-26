@@ -14,7 +14,6 @@ tags:
 - Hardware
 - Keychron Q1 Pro
 - Woodworking
-date: 2023-09-21T12:18:23+02:00
 ---
 
 Welcome to Bullets #6! You can read the previous one here: [bullets/5][1].

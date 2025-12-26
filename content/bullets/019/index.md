@@ -8,7 +8,6 @@ categories:
   - bullets
   - summary
 tags: [cars, family, running, cycling]
-date: 2025-04-26T20:59:57+02:00
 ---
 
 Welcome to Bullets #19! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/18][1].

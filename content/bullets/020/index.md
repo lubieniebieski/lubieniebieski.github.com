@@ -12,7 +12,6 @@ tags:
   - work
   - underware
   - multiboard
-date: 2025-06-28T21:03:52+02:00
 ---
 
 Welcome to Bullets #20! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/19][1].

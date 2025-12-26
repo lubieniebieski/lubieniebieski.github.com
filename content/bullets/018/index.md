@@ -14,7 +14,6 @@ tags:
   - drone
   - JackReacher
   - spring
-date: 2025-03-08T20:13:20+01:00
 ---
 
 Welcome to Bullets #18! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/17][1].

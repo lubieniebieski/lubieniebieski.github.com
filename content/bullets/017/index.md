@@ -13,7 +13,6 @@ tags:
   - running
   - furniture
   - time
-date: 2024-10-29T21:51:03+01:00
 ---
 
 Welcome to Bullets #17! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/16][1].

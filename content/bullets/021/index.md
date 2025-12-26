@@ -12,7 +12,6 @@ tags:
   - cycling
   - tour de france
   - woodworking
-date: 2025-07-12T21:53:50+02:00
 ---
 
 Welcome to Bullets #21! Sit back, relax, and dive into the latest edition of the [series][2], you can also catch up on the previous edition [bullets/20][1].
