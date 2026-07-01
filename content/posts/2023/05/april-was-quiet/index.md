@@ -2,7 +2,7 @@
 title: "April Was Quiet"
 author: adam nowak
 date: "2023-05-04T10:23:34+02:00"
-description:
+description: but I still have a lot to say about it, so let's try to tear the April apart and see what happened!
 categories:
   - thoughts
 tags:
@@ -22,7 +22,7 @@ Based on the number of posts, April was a quiet month. But honestly, I don't bel
   {{< image src="202304_IMG_0864-lubieniebieskipl.jpg" >}}
 - Juve has one of the worst seasons in the last 10 years, sometimes it's really hard to watch them play. Still... _Fino alla fine!_
 - We spent one day with alpacas on the farm nearby, it was a great experience for the whole family!
-  {{< image src="202304_X1007513-lubieniebieskipl.jpg">}}
+  {{< image src="202304_X1007513-lubieniebieskipl.jpg" >}}
 - During one of the weekends, when I was with the boys alone, we had an idea of [using ChatGPT and Midjourney to create a story][1]. It was a lot of fun, and I can recommend it to everyone who has kids and wants to spend some time with them in a creative way!
 - By the way, at work we've done a workshop for our People team and presented them how to leverage the power of generative AI in their daily work. 3 main insights from the workshop:
   - I enjoy such events with people!
