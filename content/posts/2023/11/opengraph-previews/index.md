@@ -69,7 +69,7 @@ and the HTML part:
   <meta property="og:image" content="{{ $featured.Permalink }}">
   ```
 
-And voila! Automated, unique preview images for each blog post! Full code can be found [here][6].
+And voila! Automated, unique preview images for each blog post! [Full code can be found on GitHub][6].
 
 ## Wrapping it up
 
