@@ -1,7 +1,7 @@
 [build.environment]
-  HUGO_VERSION = "0.163.3"
+  HUGO_VERSION = "0.167.0"
   HUGO_EXTENDED = "true"
-  GO_VERSION = "1.26.4"
+  GO_VERSION = "1.27.1"
 
 [[redirects]]
   from = "/feed"
