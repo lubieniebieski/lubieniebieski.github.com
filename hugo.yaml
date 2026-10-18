@@ -35,30 +35,10 @@ languages:
       readOtherPosts: Read other posts
     menu:
       main:
-        - identifier: categories
-          name: categories
-          url: /categories
-          weight: 1
-        - identifier: cyks
-          name: cyk
-          url: /categories/cyk
-          weight: 2
-        - identifier: uses
-          name: uses
-          url: /uses
-          weight: 4
         - identifier: about
           name: about
           url: /about
           weight: 5
-        - identifier: blogroll
-          name: blogroll
-          url: /blogroll
-          weight: 6
-        - identifier: rss
-          name: RSS
-          url: /feed.xml
-          weight: 7
 
 outputFormats:
   RSS:
