@@ -38,7 +38,7 @@ Well… You can:
 
 [1]: https://www.linkedin.com/in/lubieniebieski/
 [2]: https://instagram.com/lubieniebieski
-[3]: https://mastodon.lubieniebieski.pl
+[3]: https://mastodon.social/@lubieniebieski
 [4]: https://www.goodreads.com/user/show/15969702-adam-nowak
 [5]: https://www.strava.com/athletes/6002154
 [6]: https://github.com/lubieniebieski
