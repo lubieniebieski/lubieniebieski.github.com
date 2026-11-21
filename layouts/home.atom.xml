@@ -1,0 +1,45 @@
+{{- /* Atom feed (/atom.xml), same entries as layouts/rss.xml. Added for POSSE Party, which only parses Atom. */ -}}
+{{- $pages := where (where .Site.RegularPages ".Section" "in" (slice "posts" "cyk" "links" "bullets")) "Kind" "page" -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<feed xmlns="http://www.w3.org/2005/Atom"{{ with .Site.Language.Locale }} xml:lang="{{ . }}"{{ end }}>
+  <title>{{ .Site.Title }}</title>
+  {{- with .Site.Params.subtitle }}
+  <subtitle>{{ . }}</subtitle>
+  {{- end }}
+  {{- $home := (.OutputFormats.Get "html").Permalink }}
+  <id>{{ $home }}</id>
+  <link rel="alternate" type="text/html" href="{{ $home }}" />
+  {{- with .OutputFormats.Get "atom" }}
+  <link rel="self" type="application/atom+xml" href="{{ .Permalink }}" />
+  {{- end }}
+  {{- with $pages }}
+  <updated>{{ (index . 0).Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>
+  {{- end }}
+  <author>
+    <name>{{ .Site.Params.author }}</name>
+    {{- with .Site.Params.authorUrl }}
+    <uri>{{ . }}</uri>
+    {{- end }}
+  </author>
+  <generator uri="https://gohugo.io/">Hugo</generator>
+  {{- range $pages }}
+  {{- $content := .Content }}
+  {{- $content = $content | replaceRE `<a href="#fn:(\d+)" class="footnote-ref" role="doc-noteref">` (printf `<a href="%s#fn:$1" class="footnote-ref" role="doc-noteref">` .Permalink) }}
+  {{- $content = $content | replaceRE `<a href="#fnref:(\d+)" class="footnote-backref" role="doc-backlink">` (printf `<a href="%s#fnref:$1" class="footnote-backref" role="doc-backlink">` .Permalink) }}
+  <entry>
+    <title>{{ .Title }}</title>
+    <link rel="alternate" type="text/html" href="{{ .Permalink }}" />
+    <id>{{ .Permalink }}</id>
+    <published>{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</published>
+    <updated>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>
+    {{- with .Description }}
+    <summary>{{ . }}</summary>
+    {{- end }}
+    <content type="html">{{ printf "<![CDATA[%s]]>" $content | safeHTML }}</content>
+  </entry>
+  {{- end }}
+</feed>

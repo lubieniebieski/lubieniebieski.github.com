@@ -40,14 +40,24 @@ languages:
           url: /about
           weight: 5
 
+mediaTypes:
+  application/atom+xml:
+    suffixes:
+      - xml
+
 outputFormats:
   RSS:
     baseName: feed
   JSON:
     baseName: feed
+  atom:
+    mediaType: application/atom+xml
+    baseName: atom
+    rel: alternate
 
 outputs:
   home:
     - RSS
     - HTML
     - JSON
+    - atom
