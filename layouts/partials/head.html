@@ -47,12 +47,24 @@
 <meta property="og:description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ $.Site.Title }}" />
-{{ if (isset .Params "cover") }}
-  {{ $pageCover := .Param "cover" }}
-  {{ with (.Resources.GetMatch (.Param "cover")) }}
-    {{ $pageCover = .RelPermalink }}
+{{/* og:image source: explicit cover, else the first image used in the post body */}}
+{{ $ogImage := false }}
+{{ with .Params.cover }}
+  {{ $ogImage = $.Resources.GetMatch . }}
+{{ end }}
+{{ if and (not $ogImage) .IsPage }}
+  {{ range findRESubmatch `(?:\{\{<\s*figure[^>]*\bsrc="([^"]+)"|!\[[^\]]*\]\(([^)\s]+))` .RawContent }}
+    {{ if not $ogImage }}
+      {{ $src := or (index . 1) (index . 2) }}
+      {{ $ogImage = $.Resources.GetMatch $src }}
+    {{ end }}
   {{ end }}
-  <meta property="og:image" content="{{ $pageCover | absURL }}">
+{{ end }}
+{{ if $ogImage }}
+  {{ $ogImage = $ogImage.Fill "1200x627 jpg q80 smart" }}
+  <meta property="og:image" content="{{ $ogImage.Permalink }}">
+{{ else if .Params.cover }}
+  <meta property="og:image" content="{{ .Params.cover | absURL }}">
 {{ else }}
   {{ $featured := resources.Get "/opengraph/background-og.png" }}
   {{ $size := 120 }}
