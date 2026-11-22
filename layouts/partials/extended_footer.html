@@ -6,3 +6,6 @@
 
 {{ $mastodonEnhancer := resources.Get "js/mastodon.js" | minify }}
 <script src="{{ $mastodonEnhancer.RelPermalink }}" async></script>
+
+{{ $themeJs := resources.Get "js/theme.js" | minify | fingerprint }}
+<script src="{{ $themeJs.RelPermalink }}" defer></script>

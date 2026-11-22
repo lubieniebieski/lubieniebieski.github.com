@@ -61,3 +61,8 @@ outputs:
     - HTML
     - JSON
     - atom
+
+markup:
+  highlight:
+    # use CSS classes so the theme's syntax.css (driven by --accent/--foreground) handles light & dark
+    noClasses: false

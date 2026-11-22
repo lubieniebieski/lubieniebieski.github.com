@@ -6,6 +6,56 @@
     --radius: 0;
     --font-size: 1.3rem;
     --line-height: 1.54em;
+    color-scheme: dark;
+}
+
+/* Light palette: used when the OS prefers light (and no explicit choice),
+   or when the user picked "light" in the menu toggle. */
+@media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+        --background: #f6f8fa;
+        --foreground: #1d212b;
+        --accent: #0071b8;
+        --gray: #8a8f98;
+        color-scheme: light;
+    }
+}
+
+:root[data-theme="light"] {
+    --background: #f6f8fa;
+    --foreground: #1d212b;
+    --accent: #0071b8;
+    --gray: #8a8f98;
+    color-scheme: light;
+}
+
+.theme-toggle {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+    color: var(--accent);
+}
+
+.theme-toggle__icon {
+    display: none;
+    width: 1.1em;
+    height: 1.1em;
+}
+
+:root:not([data-theme]) .theme-toggle__icon--auto,
+:root[data-theme="light"] .theme-toggle__icon--light,
+:root[data-theme="dark"] .theme-toggle__icon--dark {
+    display: block;
 }
 
 
@@ -76,7 +126,7 @@ blockquote {
 
     &.misc {
         border: 1px dashed var(--gray);
-        background-color: rgba(var(--gray-rgb), 0.1);
+        background-color: color-mix(in srgb, var(--gray) 10%, transparent);
     }
 }
 

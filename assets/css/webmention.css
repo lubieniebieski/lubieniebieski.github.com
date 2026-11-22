@@ -20,8 +20,8 @@
 }
 
 #webmentions img.missing {
-  background: white;
-  border: dashed black 1px;
+  background: var(--background);
+  border: dashed var(--foreground) 1px;
 }
 
 #webmentions ul {
@@ -38,7 +38,7 @@
 #webmentions a.reaction {
   position: relative;
   text-decoration: none;
-  text-shadow: 0px 0px 3px white;
+  text-shadow: 0px 0px 3px var(--background);
   margin-right: 0;
   letter-spacing: -1ex;
   margin-right: 1ex;
@@ -62,11 +62,11 @@
 }
 
 #webmentions .comments li .text {
-  color: #555;
+  color: color-mix(in srgb, var(--foreground) 65%, transparent);
   font-style: italic;
   text-decoration: none;
 }
 
 #webmentions .comments li .name {
-  color: #111;
+  color: var(--foreground);
 }
