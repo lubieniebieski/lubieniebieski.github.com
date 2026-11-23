@@ -5,7 +5,7 @@
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
-<feed xmlns="http://www.w3.org/2005/Atom"{{ with .Site.Language.Locale }} xml:lang="{{ . }}"{{ end }}>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:posse="https://posseparty.com/2024/Feed"{{ with .Site.Language.Locale }} xml:lang="{{ . }}"{{ end }}>
   <title>{{ .Site.Title }}</title>
   {{- with .Site.Params.subtitle }}
   <subtitle>{{ . }}</subtitle>
@@ -40,6 +40,10 @@
     <summary>{{ . }}</summary>
     {{- end }}
     <content type="html">{{ printf "<![CDATA[%s]]>" $content | safeHTML }}</content>
+    {{- if eq .Section "pyk" }}
+    {{- $posse := dict "format_string" "{{content}}" "truncate" true "append_url" false "append_url_if_truncated" true "attach_link" false }}
+    <posse:post format="json">{{ printf "<![CDATA[%s]]>" ($posse | jsonify) | safeHTML }}</posse:post>
+    {{- end }}
   </entry>
   {{- end }}
 </feed>
