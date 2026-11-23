@@ -1,4 +1,4 @@
-{{- $posts := (where (where .Site.RegularPages ".Section" "in" (slice "posts" "cyk" "links" "bullets")) "Kind" "page")  -}}
+{{- $posts := (where (where .Site.RegularPages ".Section" "in" (slice "posts" "cyk" "links" "bullets" "pyk")) "Kind" "page")  -}}
 
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}

@@ -1,0 +1,43 @@
+.post.note {
+  padding: 1rem 1.125rem;
+  border-inline-start: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  background: color-mix(in srgb, var(--accent) 6%, var(--background));
+}
+
+.posts > .note {
+  margin-block: 1rem;
+}
+
+/* The separator above a note belongs to the previous post. */
+.posts > .post:has(+ .note),
+.posts > .post.note {
+  border-bottom: 0;
+}
+
+.note .post-meta {
+  font-size: 0.85em;
+  margin-bottom: 0;
+}
+
+.note .post-content {
+  margin-top: 0.5rem;
+}
+
+.note .post-content > :first-child {
+  margin-top: 0;
+}
+
+.note .post-content > :last-child {
+  margin-bottom: 0;
+}
+
+.note-navigation {
+  margin-top: 1.5rem;
+  padding-inline-start: 1.125rem;
+  font-size: 0.85em;
+  color: color-mix(in srgb, var(--foreground) 70%, transparent);
+}
+
+.note-navigation a:not(:hover):not(:focus-visible) {
+  color: inherit;
+}

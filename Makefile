@@ -1,4 +1,4 @@
-.PHONY: default fix_links lint_markdown server clean
+.PHONY: default fix_links lint_markdown server clean pyk
 
 CONTENT_PATH := content
 
@@ -15,6 +15,9 @@ server:
 
 clean:
 	rm -rf $(TMPDIR)/hugo_cache/*
+
+pyk:
+	hugo new content --kind notes "pyk/$$(date +%Y-%m-%d-%H%M%S).md"
 
 new_bullet:
 	@NUM=$$(ls content/bullets/ | sort -n | tail -1); \

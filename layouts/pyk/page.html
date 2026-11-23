@@ -1,0 +1,6 @@
+{{ define "main" }}
+  {{ partial "note.html" . }}
+  <nav class="note-navigation" aria-label="Pyk">
+    <a href="{{ .CurrentSection.RelPermalink }}">← Pyk timeline</a>
+  </nav>
+{{ end }}

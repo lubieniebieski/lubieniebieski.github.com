@@ -35,10 +35,22 @@ languages:
       readOtherPosts: Read other posts
     menu:
       main:
+        - identifier: all
+          name: all
+          pageRef: /
+          weight: 10
+        - identifier: cyk
+          name: cyk
+          pageRef: /cyk
+          weight: 20
+        - identifier: pyk
+          name: pyk
+          pageRef: /pyk
+          weight: 30
         - identifier: about
           name: about
-          url: /about
-          weight: 5
+          pageRef: /about
+          weight: 40
 
 mediaTypes:
   application/atom+xml:

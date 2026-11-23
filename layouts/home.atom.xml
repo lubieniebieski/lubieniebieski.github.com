@@ -1,5 +1,5 @@
 {{- /* Atom feed (/atom.xml), same entries as layouts/rss.xml. Added for POSSE Party, which only parses Atom. */ -}}
-{{- $pages := where (where .Site.RegularPages ".Section" "in" (slice "posts" "cyk" "links" "bullets")) "Kind" "page" -}}
+{{- $pages := where (where .Site.RegularPages ".Section" "in" (slice "posts" "cyk" "links" "bullets" "pyk")) "Kind" "page" -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}

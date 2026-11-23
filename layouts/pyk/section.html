@@ -1,0 +1,17 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+
+  {{ $paginator := .Paginate .RegularPages.ByDate.Reverse }}
+  <div class="posts">
+    {{ range $paginator.Pages }}
+      {{ partial "note.html" . }}
+    {{ else }}
+      <p>No notes yet.</p>
+    {{ end }}
+  </div>
+  {{ partial "pagination.html" . }}
+{{ end }}

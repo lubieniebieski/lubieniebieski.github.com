@@ -9,3 +9,8 @@
 
 {{ $themeJs := resources.Get "js/theme.js" | minify | fingerprint }}
 <script src="{{ $themeJs.RelPermalink }}" defer></script>
+
+{{ if or .IsHome (eq .Section "pyk") }}
+  {{ $noteAgeJs := resources.Get "js/note-age.js" | minify | fingerprint }}
+  <script src="{{ $noteAgeJs.RelPermalink }}" defer></script>
+{{ end }}
