@@ -31,7 +31,7 @@
   {{- $content = $content | replaceRE `<a href="#fn:(\d+)" class="footnote-ref" role="doc-noteref">` (printf `<a href="%s#fn:$1" class="footnote-ref" role="doc-noteref">` .Permalink) }}
   {{- $content = $content | replaceRE `<a href="#fnref:(\d+)" class="footnote-backref" role="doc-backlink">` (printf `<a href="%s#fnref:$1" class="footnote-backref" role="doc-backlink">` .Permalink) }}
   <entry>
-    <title>{{ .Title }}</title>
+    <title>{{ if ne .Section "pyk" }}{{ .Title }}{{ end }}</title>
     <link rel="alternate" type="text/html" href="{{ .Permalink }}" />
     <id>{{ .Permalink }}</id>
     <published>{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</published>
