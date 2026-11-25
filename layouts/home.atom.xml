@@ -42,6 +42,16 @@
     <content type="html">{{ printf "<![CDATA[%s]]>" $content | safeHTML }}</content>
     {{- if eq .Section "pyk" }}
     {{- $posse := dict "format_string" "{{content}}" "truncate" true "append_url" false "append_url_if_truncated" true "attach_link" false }}
+    {{- /* POSSE Party ignores <img> in <content>; images must be listed in "media". Uses images bundled with the post. */ -}}
+    {{- $media := slice }}
+    {{- range first 4 (.Resources.ByType "image") }}
+    {{- $item := dict "type" "image" "url" .Permalink }}
+    {{- if ne .Title .Name }}{{ $item = merge $item (dict "alt" .Title) }}{{ end }}
+    {{- $media = $media | append $item }}
+    {{- end }}
+    {{- with $media }}
+    {{- $posse = merge $posse (dict "media" . "media_fallback" "best_effort") }}
+    {{- end }}
     <posse:post format="json">{{ printf "<![CDATA[%s]]>" ($posse | jsonify) | safeHTML }}</posse:post>
     {{- end }}
   </entry>
