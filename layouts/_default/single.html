@@ -44,7 +44,10 @@
         {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">#</a> ${3}` | safeHTML }}
       </div>
     {{- end -}}
-    <button class="tinylytics_kudos"></button>
+    <div class="post-updoot">
+      <span class="updoot" data-emoji="💙"></span>
+    </div>
+    <script src="https://neatstats.net/updoot.js" defer></script>
   </div>
 
   {{ if eq .Type $.Site.Params.contentTypeName }}

@@ -158,17 +158,9 @@ blockquote {
     margin-right: 20px;
 }
 
-button.tinylytics_kudos {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.post-updoot {
+    text-align: center;
     margin-bottom: 20px;
-    background: none;
-    border: 1px solid var(--accent);
-
-    &.did_select {
-        border-style: dashed;
-    }
 }
 
 .linklog-link .description {
